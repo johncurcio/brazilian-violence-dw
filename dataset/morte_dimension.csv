@@ -1,0 +1,85 @@
+morte_key,Subjetividade Complementar,Tipo de Morte
+1,Homicídio Doloso,PAF
+2,Homicídio Doloso,BRANCA
+3,Homicídio Doloso,Espancamento
+4,Homicídio Doloso,PAF/B
+5,Homicídio Doloso,NI
+6,Homicídio Doloso,ASFIXIA MECÂNICA
+7,Homicídio Doloso,CHOQUE ELÉTRICO
+8,Homicídio Doloso,LINCHAMENTO
+9,Homicídio Doloso,AFOGAMENTO
+10,Homicídio Doloso,QUEIMADURA
+11,Homicídio Doloso,Atropelado
+12,Homicídio Doloso,Carbonizado
+13,Homicídio Doloso,INTOXICAÇÃO
+14,Homicídio Doloso,OUTROS
+15,Resistência com Resultado Morte,PAF
+16,Resistência com Resultado Morte,BRANCA
+17,Resistência com Resultado Morte,Espancamento
+18,Resistência com Resultado Morte,PAF/B
+19,Resistência com Resultado Morte,NI
+20,Resistência com Resultado Morte,ASFIXIA MECÂNICA
+21,Resistência com Resultado Morte,CHOQUE ELÉTRICO
+22,Resistência com Resultado Morte,LINCHAMENTO
+23,Resistência com Resultado Morte,AFOGAMENTO
+24,Resistência com Resultado Morte,QUEIMADURA
+25,Resistência com Resultado Morte,Atropelado
+26,Resistência com Resultado Morte,Carbonizado
+27,Resistência com Resultado Morte,INTOXICAÇÃO
+28,Resistência com Resultado Morte,OUTROS
+29,Lesão Corporal Seguida de Morte,PAF
+30,Lesão Corporal Seguida de Morte,BRANCA
+31,Lesão Corporal Seguida de Morte,Espancamento
+32,Lesão Corporal Seguida de Morte,PAF/B
+33,Lesão Corporal Seguida de Morte,NI
+34,Lesão Corporal Seguida de Morte,ASFIXIA MECÂNICA
+35,Lesão Corporal Seguida de Morte,CHOQUE ELÉTRICO
+36,Lesão Corporal Seguida de Morte,LINCHAMENTO
+37,Lesão Corporal Seguida de Morte,AFOGAMENTO
+38,Lesão Corporal Seguida de Morte,QUEIMADURA
+39,Lesão Corporal Seguida de Morte,Atropelado
+40,Lesão Corporal Seguida de Morte,Carbonizado
+41,Lesão Corporal Seguida de Morte,INTOXICAÇÃO
+42,Lesão Corporal Seguida de Morte,OUTROS
+43,Roubo com Resultado Morte,PAF
+44,Roubo com Resultado Morte,BRANCA
+45,Roubo com Resultado Morte,Espancamento
+46,Roubo com Resultado Morte,PAF/B
+47,Roubo com Resultado Morte,NI
+48,Roubo com Resultado Morte,ASFIXIA MECÂNICA
+49,Roubo com Resultado Morte,CHOQUE ELÉTRICO
+50,Roubo com Resultado Morte,LINCHAMENTO
+51,Roubo com Resultado Morte,AFOGAMENTO
+52,Roubo com Resultado Morte,QUEIMADURA
+53,Roubo com Resultado Morte,Atropelado
+54,Roubo com Resultado Morte,Carbonizado
+55,Roubo com Resultado Morte,INTOXICAÇÃO
+56,Roubo com Resultado Morte,OUTROS
+57,Feminicídio,PAF
+58,Feminicídio,BRANCA
+59,Feminicídio,Espancamento
+60,Feminicídio,PAF/B
+61,Feminicídio,NI
+62,Feminicídio,ASFIXIA MECÂNICA
+63,Feminicídio,CHOQUE ELÉTRICO
+64,Feminicídio,LINCHAMENTO
+65,Feminicídio,AFOGAMENTO
+66,Feminicídio,QUEIMADURA
+67,Feminicídio,Atropelado
+68,Feminicídio,Carbonizado
+69,Feminicídio,INTOXICAÇÃO
+70,Feminicídio,OUTROS
+71,Outros,PAF
+72,Outros,BRANCA
+73,Outros,Espancamento
+74,Outros,PAF/B
+75,Outros,NI
+76,Outros,ASFIXIA MECÂNICA
+77,Outros,CHOQUE ELÉTRICO
+78,Outros,LINCHAMENTO
+79,Outros,AFOGAMENTO
+80,Outros,QUEIMADURA
+81,Outros,Atropelado
+82,Outros,Carbonizado
+83,Outros,INTOXICAÇÃO
+84,Outros,OUTROS

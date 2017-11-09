@@ -1,0 +1,8 @@
+
+morte_dimension
+
+No tipo de morte é preciso identificar essas coisas como a mesma coisa:
+
+Espancamento	Espancado ESPANCAMEN
+PAF/B	PAFB	
+OUTROS	Vazio

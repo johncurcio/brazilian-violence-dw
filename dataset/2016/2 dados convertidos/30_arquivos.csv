@@ -1,0 +1,163 @@
+Data do Fato,Hora,Nome,Idade,Sexo,Subjetividade Complementar,Tipo de Morte,Cidade,Bairro,
+01/11/2016,1,Não Identificado (1184/2016),,Masculino,Homicídio Doloso,PAF,Teotônio Vilela,Centro,
+,6,José Alves da Silva,48,Masculino,Homicídio Doloso,PAF,Jundiá,Zona Rural,
+,12,Daniel da Silva Gomes,19,Masculino,Homicídio Doloso,PAF,Satuba,Centro,
+,17,Pedro Henrique Oliveira Alves,23,Masculino,Homicídio Doloso,BRANCA,Maceió,Centro,
+02/11/2016,4,Everson Victor da Silva,30,Masculino,Homicídio Doloso,PAF,Maceió,Ponta Grossa,
+,13,Paulo Henrique dos Santos,16,Masculino,Homicídio Doloso,PAF,Pilar,Chã do Pilar,
+,14,José Roberto Peixoto do Santos,49,Masculino,Homicídio Doloso,PAF,Barra de Santo Antônio,Zona Rural,
+,19,José Alberto de LIma,35,Masculino,Homicídio Doloso,PAF,Maceió,Santa Lúcia,
+,20,Deyvisson Willian Lima dos Santos,18,Masculino,Homicídio Doloso,PAF,Maceió,Cidade Universitária,
+03/11/2016,1,Clevisson Silva do Nascimento,21,Masculino,Homicídio Doloso,PAF,Maceió,Jacintinho,
+,7,José Apareecido Firmino (1193/2016),22,Masculino,Homicídio Doloso,PAF,Arapiraca,Ouro Preto,
+,19,Cleverton Berto da Silva,20,Masculino,Homicídio Doloso,PAF,Piranhas,Centro,
+,20,Sandro Marcos Rodrigues da Silva,45,Masculino,Homicídio Doloso,PAF,Teotônio Vilela,Centro,
+,22,William Maxuel Santos da Silva,25,Masculino,Homicídio Doloso,PAF,Maceió,Ponta da Terra,
+04/11/2016,5,Vitor Rodrigo Silva do Nascimento,20,Masculino,Resistência com Resultado Morte,PAF,Rio Largo,Mata do Rolo,
+,10,Edval José Ramos,79,Masculino,Roubo com Resultado Morte,ESPANCAMEN,..,Maceió,Jaraguá
+,19,Ewerton Ferreira da Silva,31,Masculino,Homicídio Doloso,PAF,Maceió,Rio Novo,
+05/11/2016,7,Gilvan Vitorino da Silva,48,Masculino,Homicídio Doloso,PAF,Major Isidoro,Centro,
+,12,Fernando Mendes da Silva,20,Masculino,Homicídio Doloso,PAF,Rio Largo,Tabuleiro do Pinto,
+,12,José Antônio Neves Pereira,30,Masculino,Homicídio Doloso,PAF,União dos Palmares,Alto do Cruzeiro,
+,19,Joan Vítor da Silva,19,Masculino,Homicídio Doloso,PAF,Arapiraca,Planalto,
+,22,Eguinaldo Ferreira,26,Masculino,Homicídio Doloso,PAF,Igreja Nova,Zona Rural,
+06/11/2016,0,Josuel Barbosa de Sousa,44,Masculino,Homicídio Doloso,PAF,São Miguel dos Milagres,Zona Rural,
+,1,Felipe da Silva,24,Masculino,Homicídio Doloso,PAF,São José da Laje,Zona Rural,
+06/11/2016,13,Josafá José dos Santos,29,Masculino,Homicídio Doloso,PAF,Rio Largo,Centro
+,15,Josias da Silva,40,Masculino,Homicídio Doloso,PAF,Passo de Camaragibe,Zona Rural
+,18,José Tiago de Melo Silva,19,Masculino,Homicídio Doloso,PAF,São José da Laje,Centro
+,18,Edcarlos Santos da Silva,34,Masculino,Homicídio Doloso,PAF,Maceió,Tabuleiro do Martins
+,20,Willian Farias dos Santos,24,Masculino,Homicídio Doloso,PAF,Limoeiro de Anadia,Zona Rural
+07/11/2016,17,Márcio Rodrigo Santos Oliveira,30,Masculino,Roubo com Resultado Morte,PAF,Maceió,Barro Duro
+,20,Jonathan de Araújo de Lima,17,Masculino,Homicídio Doloso,PAF,Maribondo,Centro
+,20,José Marques dos Santos,45,Masculino,Homicídio Doloso,PAF,Teotônio Vilela,Centro
+08/11/2016,8,Maria Lucia Bezerra da Silva,41,Feminino,Homicídio Doloso,PAF,Campo Alegre,Centro
+,19,Valdomiro Silva dos Santos,37,Masculino,Homicídio Doloso,PAF,Maceió,Antares
+09/11/2016,7,Eduardo Rodrigues da Silva,16,Masculino,Homicídio Doloso,BRANCA,Coruripe,Zona Rural
+,7,Yuri José da Silva,15,Masculino,Homicídio Doloso,BRANCA,Coruripe,Zona Rural
+,9,Mariana Alves da Silva,17,Feminino,Feminicídio,PAF,Viçosa,Centro
+,12,Roberta dos Santos Vieira,20,Feminino,Homicídio Doloso,PAF,Canapi,Centro
+,13,Luís Henrique Santos da Paz,25,Masculino,Homicídio Doloso,PAF,Arapiraca,Manoel Teles
+,14,Adson Maciel Motta,24,Masculino,Homicídio Doloso,PAF,Maceió,Tabuleiro do Martins
+,15,Vitor Manoel da Silva,16,Masculino,Homicídio Doloso,PAF,Cajueiro,Zona Rural
+,17,Dwesson Farias da Silva,25,Masculino,Homicídio Doloso,PAF,Piranhas,Zona Rural
+,20,José André Alves da Silva,37,Masculino,Homicídio Doloso,BRANCA,Matriz de Camaragibe,Centro
+,22,José Eduardo dos Santos,14,Masculino,Homicídio Doloso,BRANCA,Flexeiras,Centro
+10/11/2016,0,Pedro de Oliveira,28,Masculino,Homicídio Doloso,PAF,Porto Real do Colégio,Centro
+,5,Genilson Oliveira Silva,24,Masculino,Homicídio Doloso,PAF,Maceió,Pajuçara
+,12,Ricardo Rodrigues dos Santos,34,Masculino,Homicídio Doloso,PAF,Arapiraca,Canafístula
+,19,Carla Patrícia Vasconcelos de Oliveira,24,Feminino,Feminicídio,PAF,Maceió,Vergel do Lago
+10/11/2016,22,Fernando Tavares da Silva,28,Masculino,Homicídio Doloso,PAF,Estrela de Alagoas,Zona Rural,
+11/11/2016,8,Alisson Costa da Silva,22,Masculino,Homicídio Doloso,PAF,São José da Laje,Centro,
+,14,José da Silva Siqueira,24,Masculino,Resistência com Resultado Morte,PAF,Maragogi,Zona Rural,
+,15,Luiz Eduardo de Araújo,32,Masculino,Homicídio Doloso,BRANCA,Maceió,Clima Bom,
+,19,Daniella dos Santos,23,Feminino,Homicídio Doloso,PAF,Maceió,Ouro Preto,
+,20,Marcos André da Silva,23,Masculino,Homicídio Doloso,PAF,Porto Calvo,Centro,
+,21,Luiz Carlos Vieira da Silva,31,Masculino,Lesão Corporal Seguida de Morte,BRANCA,Arapiraca,Bairro não Informado,
+,22,Dackson André da Rocha Gonzaga,29,Masculino,Resistência com Resultado Morte,PAF,Palmeira dos Índios,Vila Maria,
+,23,Claudiano Santos Viana,20,Masculino,Homicídio Doloso,PAF,Arapiraca,Olho d Água dos Cazuzinhos,
+12/11/2016,3,Fábio Tavares dos Santos,22,Masculino,Homicídio Doloso,PAF,Água Branca,Zona Rural,
+,18,Não Identificado (1985/2016),17,Masculino,Homicídio Doloso,PAF,Santana do Mundaú,Centro,
+,18,Edson Antônio Caetano dos Santos,17,Masculino,Homicídio Doloso,PAF,Campo Alegre,Centro,
+13/11/2016,0,Davi Santos da Silva,31,Masculino,Homicídio Doloso,PAF,Maceió,Jacarecica,
+,1,José Edenilson dos Santos,25,Masculino,Homicídio Doloso,PAF,Teotônio Vilela,Centro,
+,18,José Carlos Jacó da Silva,16,Masculino,Homicídio Doloso,PAF,Santana do Mundaú,Zona Rural,
+,19,Denilson Lima dos Santos,18,Masculino,Homicídio Doloso,PAF,Maceió,Tabuleiro do Martins,
+14/11/2016,9,José Diogo Alves de Almeida,17,Masculino,Homicídio Doloso,PAF,Santana do Ipanema,Centro,
+,12,José Rodrigues Sena,32,Masculino,Homicídio Doloso,PAF,Arapiraca,Cacimbas,
+,16,Ariel Ferreira da Silva,22,Masculino,Homicídio Doloso,PAF,Maceió,Benedito Bentes,
+,19,Genivaldo Barbosa da Silva,32,Masculino,Homicídio Doloso,ESPANCAMEN,..,Maceió,Chã da Jaqueira
+,19,Dione Felipe,50,Masculino,Homicídio Doloso,PAF,Maceió,Riacho Doce,
+15/11/2016,1,Não Identificado (1942/2016),,Masculino,Homicídio Doloso,PAF,Rio Largo,Tabuleiro do Pinto,
+,10,Alexandre Douglas Almeida de Oliveira,24,Masculino,Homicídio Doloso,PAF,Maceió,Chã da Jaqueira,
+,15,Elielson Xavier dos Santos,22,Masculino,Homicídio Doloso,PAF,Piaçabuçu,Zona Rural,
+15/11/2016,20,Thiago Ferreira da Silva,22,Masculino,Roubo com Resultado Morte,PAF,Arapiraca,Alto do Cruzeiro
+,20,Higor Pantaleão da Silva,22,Masculino,Homicídio Doloso,PAF,Maceió,Clima Bom
+,21,Luan Pedro Nascimento dos Santos,16,Masculino,Homicídio Doloso,PAF,Maceió,Trapiche da Barra
+,21,Carlos Henrique Teixeira de Andrade,17,Masculino,Homicídio Doloso,PAF,Maceió,Trapiche da Barra
+16/11/2016,5,Maycon Douglas da Silva Jacinto,23,Masculino,Homicídio Doloso,BRANCA,Colônia Leopoldina,Zona Rural
+,15,Clinffet Willes da Silva Machado,37,Masculino,Homicídio Doloso,PAF,Barra de Santo Antônio,Centro
+,16,Amadeu Batista Santos,47,Masculino,Homicídio Doloso,PAF,Limoeiro de Anadia,Zona Rural
+,20,Jailson Teixeira,21,Masculino,Homicídio Doloso,PAF,Maceió,Prado
+,20,José Dionísio da Silva,52,Masculino,Homicídio Doloso,BRANCA,Taquarana,Zona Rural
+17/11/2016,12,Jeanderson Alves da Silva,21,Masculino,Homicídio Doloso,PAF,Messias,Centro
+,15,José Yago da Silva,16,Masculino,Homicídio Doloso,PAF,Satuba,Zona Rural
+,16,Não Identificado (1959/2016),33,Masculino,Homicídio Doloso,PAF,Maceió,Clima Bom
+,18,Natanael Oliveira dos Santos,17,Masculino,Homicídio Doloso,PAF,Barra de Santo Antônio,Zona Rural
+,18,Byron Thallysson dos Santos,26,Masculino,Homicídio Doloso,PAF,Maceió,Chã da Jaqueira
+,19,João Félix Vieira,23,Masculino,Homicídio Doloso,PAF,Piranhas,Zona Rural
+,22,Francisco Claudino de Araújo,59,Masculino,Homicídio Doloso,PAF,Santana do Mundaú,Centro
+,23,Luiz Paulo Gomes da Silva,25,Masculino,Homicídio Doloso,PAF,Santa Luzia do Norte,Centro
+18/11/2016,0,Luciano da Conceição Oliveira,31,Masculino,Homicídio Doloso,PAF,Santana do Mundaú,Zona Rural
+,8,Michel Ângelo da Silva,35,Masculino,Homicídio Doloso,ASFIXIA MECÂNICA,Maceió,Cidade Universitária
+,14,Clebson Amaro dos Santos,21,Masculino,Resistência com Resultado Morte,PAF,Anadia,Zona Rural
+,14,José Daniel Simão dos Santos,20,Masculino,Resistência com Resultado Morte,PAF,Anadia,Zona Rural
+,16,Carlos André Vanderlei da Silva,36,Masculino,Homicídio Doloso,BRANCA,Olho d Água das Flores,Zona Rural
+,18,Benedito Elias da Silva,62,Masculino,Homicídio Doloso,PAF,Pilar,Chã do Pilar
+,18,Ronaldo Matias de Oliveira,21,Masculino,Homicídio Doloso,PAF,Penedo,Centro
+18/11/2016,20,Ewerton da Silva,21,Masculino,Homicídio Doloso,PAF,Pilar,Chã do Pilar,
+,21,Edmilson Antônio da Silva,49,Masculino,Homicídio Doloso,BRANCA,Maceió,Pitanguinha,
+,23,José Domingos Freire,32,Masculino,Homicídio Doloso,PAF,Tanque d Arca,Zona Rural,
+19/11/2016,2,Valdecy Francisco Lima da Silva,49,Masculino,Roubo com Resultado Morte,PAF,Maceió,Cidade Universitária,
+,3,João Bosco Ramalho,22,Masculino,Homicídio Doloso,PAF,Maceió,Benedito Bentes,
+,5,Jonatas Carvalho do Nascimento,18,Masculino,Homicídio Doloso,PAF,Maceió,Ipioca,
+,7,José Nilton Vieira da Silva (1975/2016),38,Masculino,Homicídio Doloso,PAF,Joaquim Gomes,Zona Rural,
+,14,José Cosme dos Santos,28,Masculino,Homicídio Doloso,PAF,Rio Largo,Centro,
+,17,João Vitor dos Santos,19,Masculino,Homicídio Doloso,PAF,Maceió,Levada,
+,23,Aelson Horácio dos Santos,36,Masculino,Homicídio Doloso,PAF,Quebrangulo,Zona Rural,
+20/11/2016,17,José Carlos Silva dos Santos,31,Masculino,Homicídio Doloso,PAF,Girau do Ponciano,Zona Rural,
+,19,José Douglas Santos da Silva,19,Masculino,Homicídio Doloso,PAF,São José da Tapera,Centro,
+,20,Marcos Antonio Amâncio Santana Junior,20,Masculino,Homicídio Doloso,PAF/B,Maceió,Tabuleiro do Martins,
+,21,Gleison Melo do Carmo,26,Masculino,Homicídio Doloso,PAF,Major Isidoro,Centro,
+,21,Rosivaldo Amâncio da Silva Barbosa,33,Masculino,Homicídio Doloso,PAF,Maceió,Vergel do Lago,
+,21,José Francisco Gonzaga da Silva,52,Masculino,Homicídio Doloso,PAF,Major Isidoro,Centro,
+,22,Alexsandro Raphael Pereira,22,Masculino,Homicídio Doloso,PAF,Maceió,Ipioca,
+21/11/2016,9,Vanderson Ribeiro da Silva,,Masculino,Homicídio Doloso,ESPANCAMEN,..,Mata Grande,Zona Rural
+,19,Edson dos Santos,26,Masculino,Homicídio Doloso,PAF,Campo Alegre,Zona Rural,
+,19,José Ricardo dos Santos Silva,15,Masculino,Homicídio Doloso,PAF,Rio Largo,Mata do Rolo,
+,22,Edson da Silva,26,Masculino,Homicídio Doloso,PAF,Limoeiro de Anadia,Zona Rural,
+,23,Ismeraldo da Silva Correia,30,Masculino,Homicídio Doloso,ESPANCAMEN,..,Poço das Trincheiras,Zona Rural
+22/11/2016,0,Darci Cirino dos Santos,68,Masculino,Homicídio Doloso,PAF,Penedo,Santa Izabel,
+,11,Jonathan Pessoa da Silva,24,Masculino,Homicídio Doloso,PAF,Maceió,Benedito Bentes,
+22/11/2016,18,Edinelson Aristeu do Nascimento Júnior,17,Masculino,Homicídio Doloso,PAF,Maceió,Ipioca
+23/11/2016,14,Jamesson dos Santos,23,Masculino,Homicídio Doloso,PAF,Penedo,Zona Rural
+,18,José Luiz dos Santos,54,Masculino,Homicídio Doloso,PAF,Igaci,Zona Rural
+24/11/2016,0,José Marcos dos Santos Júnior,19,Masculino,Homicídio Doloso,PAF,Maceió,Riacho Doce
+,7,Raniel Victor Oliveira da Silva,19,Masculino,Homicídio Doloso,LINCHAMENTO,Maceió,Benedito Bentes
+,16,Renato Tenório da Silva,16,Masculino,Homicídio Doloso,PAF,Maceió,Trapiche da Barra
+,16,Wellignton da Silva Barros,16,Masculino,Homicídio Doloso,PAF,Maceió,Trapiche da Barra
+,18,José Alexandre Gomes Marinho,40,Masculino,Homicídio Doloso,PAF,Coqueiro Seco,Zona Rural
+,20,Thiago Paiva dos Santos (2020/2016),30,Masculino,Homicídio Doloso,PAF,Messias,Zona Rural
+25/11/2016,5,Maria Ilda Bernardo de Souza,58,Masculino,Feminicídio,ASFIXIA MECÂNICA,Marechal Deodoro,Centro
+,8,Carlos Henrique Araújo da Silva,18,Masculino,Homicídio Doloso,PAF,Arapiraca,Povoado Fazenda Velha
+,21,Michel da Silva Patrício,25,Masculino,Homicídio Doloso,PAF,Maceió,Pinheiro
+,23,Josivaldo dos Santos de Campos,19,Masculino,Homicídio Doloso,PAF,Boca da Mata,Zona Rural
+26/11/2016,17,Edvan Antônio da Silva Araújo,18,Masculino,Roubo com Resultado Morte,PAF,Jundiá,Zona Rural
+,17,Jose Duarte Batista,27,Masculino,Homicídio Doloso,PAF,Olho d Água Grande,Zona Rural
+,18,Valter da Silva Oliveira,25,Masculino,Homicídio Doloso,PAF,Maceió,Jatiúca
+,20,Nivaldo de Brito,40,Masculino,Homicídio Doloso,PAF,Santana do Ipanema,Zona Rural
+,20,Luzinário Felisberto da Silva,34,Masculino,Homicídio Doloso,PAF,Igaci,Zona Rural
+,21,Adriano Silvestre da Silva,28,Masculino,Homicídio Doloso,BRANCA,Olho d Água do Casado,Zona Rural
+,21,Madysson Delano Gomes da Silva,19,Masculino,Homicídio Doloso,PAF,Campo Alegre,Centro
+27/11/2016,7,Rodrigo Gomes da Silva,17,Masculino,Homicídio Doloso,PAF,Maceió,Barro Duro
+,9,Ednaldo Lima da Silva,22,Masculino,Homicídio Doloso,PAF,Teotônio Vilela,Centro
+,11,Alisson Matheus da Silva Santos,16,Masculino,Homicídio Doloso,PAF,Maceió,Trapiche da Barra
+,19,Italo Rosse de Abreu Ferreira,19,Masculino,Homicídio Doloso,BRANCA,Santana do Mundaú,Zona Rural
+27/11/2016,19,Joseildo Laurentino da Silva,22,Masculino,Homicídio Doloso,BRANCA,Santana do Mundaú,Zona Rural,
+,23,Flaviano André dos Santos,19,Masculino,Homicídio Doloso,PAF,Jequiá da Praia,Zona Rural,
+,23,José Cícero dos Santos,22,Masculino,Homicídio Doloso,PAF,Jequiá da Praia,Zona Rural,
+,23,Mauro Galvão da Silva Pinto,17,Masculino,Homicídio Doloso,PAF,Jequiá da Praia,Zona Rural,
+28/11/2016,10,José Emílio Lima dos Santos,26,Masculino,Homicídio Doloso,PAF,Arapiraca,Zona Rural Leste,
+,10,Carlos Alberto Rodrigues Albino,,Masculino,Homicídio Doloso,ESPANCAMEN,..,Flexeiras,Zona Rural
+29/11/2016,6,José Arnaldo Manso dos Santos Filho,20,Masculino,Resistência com Resultado Morte,PAF,Palmeira dos Índios,Alto do Cruzeiro,
+,16,Alisson da Silva Nobre,,Masculino,Homicídio Doloso,PAF,Maceió,Poço,
+,19,José Cícero Bezerra da Siolva,31,Masculino,Homicídio Doloso,PAF,Maceió,Bom Parto,
+,20,Diórgenes Silva Cardoso,24,Masculino,Homicídio Doloso,PAF,Coruripe,Zona Rural,
+,21,Osvaldo Ferreira da Silva,40,Masculino,Homicídio Doloso,PAF,Arapiraca,Canafístula,
+30/11/2016,0,Adriano da Silva Santos,24,Masculino,Homicídio Doloso,PAF,São Luís do Quitunde,Centro,
+,0,Roberto Allysson da Silva,22,Masculino,Homicídio Doloso,PAF,Joaquim Gomes,Zona Rural,
+,0,José Antônio Azarias da Costa,23,Masculino,Homicídio Doloso,PAF,Jaramataia,Centro,
+,6,Geovani Anjo da Silva,32,Masculino,Homicídio Doloso,PAF,União dos Palmares,Centro,
+,13,Welineide Maria de Lima,17,Feminino,Feminicídio,PAF,Campestre,Centro,
+,19,Cícero Erinaldo Ribeiro da Silva,21,Masculino,Homicídio Doloso,PAF,Maceió,Cidade Universitária,
+,19,Anderson Felipe Silva de Ataíde,20,Masculino,Homicídio Doloso,PAF,Maceió,Santa Lúcia,
