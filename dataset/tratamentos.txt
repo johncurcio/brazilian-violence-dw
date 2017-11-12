@@ -1,8 +1,13 @@
 
-morte_dimension
+crime_dimension
 
 No tipo de morte é preciso identificar essas coisas como a mesma coisa:
 
 Espancamento	Espancado ESPANCAMEN
 PAF/B	PAFB	
 OUTROS	Vazio
+
+local_dimension
+
+Major Isidoro precisa dar match com Isidoro
+Nas tabelas fato está faltando o apóstrofo dos nomes de municípios
