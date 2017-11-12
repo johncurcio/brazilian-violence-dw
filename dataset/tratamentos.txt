@@ -11,3 +11,5 @@ local_dimension
 
 Major Isidoro precisa dar match com Isidoro
 Nas tabelas fato está faltando o apóstrofo dos nomes de municípios
+
+tratar datas que ficam em branco no etl
