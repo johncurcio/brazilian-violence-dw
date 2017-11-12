@@ -1,0 +1,1453 @@
+perfil_key,idade,genero,cor
+0MAAM,0,Masculino,Amarela
+0MABR,0,Masculino,Branca
+0MAIN,0,Masculino,Indígena
+0MAPA,0,Masculino,Parda
+0MAPR,0,Masculino,Preta
+0MASE,0,Masculino,Sem Declaração
+0FEAM,0,Feminino,Amarela
+0FEBR,0,Feminino,Branca
+0FEIN,0,Feminino,Indígena
+0FEPA,0,Feminino,Parda
+0FEPR,0,Feminino,Preta
+0FESE,0,Feminino,Sem Declaração
+1MAAM,1,Masculino,Amarela
+1MABR,1,Masculino,Branca
+1MAIN,1,Masculino,Indígena
+1MAPA,1,Masculino,Parda
+1MAPR,1,Masculino,Preta
+1MASE,1,Masculino,Sem Declaração
+1FEAM,1,Feminino,Amarela
+1FEBR,1,Feminino,Branca
+1FEIN,1,Feminino,Indígena
+1FEPA,1,Feminino,Parda
+1FEPR,1,Feminino,Preta
+1FESE,1,Feminino,Sem Declaração
+2MAAM,2,Masculino,Amarela
+2MABR,2,Masculino,Branca
+2MAIN,2,Masculino,Indígena
+2MAPA,2,Masculino,Parda
+2MAPR,2,Masculino,Preta
+2MASE,2,Masculino,Sem Declaração
+2FEAM,2,Feminino,Amarela
+2FEBR,2,Feminino,Branca
+2FEIN,2,Feminino,Indígena
+2FEPA,2,Feminino,Parda
+2FEPR,2,Feminino,Preta
+2FESE,2,Feminino,Sem Declaração
+3MAAM,3,Masculino,Amarela
+3MABR,3,Masculino,Branca
+3MAIN,3,Masculino,Indígena
+3MAPA,3,Masculino,Parda
+3MAPR,3,Masculino,Preta
+3MASE,3,Masculino,Sem Declaração
+3FEAM,3,Feminino,Amarela
+3FEBR,3,Feminino,Branca
+3FEIN,3,Feminino,Indígena
+3FEPA,3,Feminino,Parda
+3FEPR,3,Feminino,Preta
+3FESE,3,Feminino,Sem Declaração
+4MAAM,4,Masculino,Amarela
+4MABR,4,Masculino,Branca
+4MAIN,4,Masculino,Indígena
+4MAPA,4,Masculino,Parda
+4MAPR,4,Masculino,Preta
+4MASE,4,Masculino,Sem Declaração
+4FEAM,4,Feminino,Amarela
+4FEBR,4,Feminino,Branca
+4FEIN,4,Feminino,Indígena
+4FEPA,4,Feminino,Parda
+4FEPR,4,Feminino,Preta
+4FESE,4,Feminino,Sem Declaração
+5MAAM,5,Masculino,Amarela
+5MABR,5,Masculino,Branca
+5MAIN,5,Masculino,Indígena
+5MAPA,5,Masculino,Parda
+5MAPR,5,Masculino,Preta
+5MASE,5,Masculino,Sem Declaração
+5FEAM,5,Feminino,Amarela
+5FEBR,5,Feminino,Branca
+5FEIN,5,Feminino,Indígena
+5FEPA,5,Feminino,Parda
+5FEPR,5,Feminino,Preta
+5FESE,5,Feminino,Sem Declaração
+6MAAM,6,Masculino,Amarela
+6MABR,6,Masculino,Branca
+6MAIN,6,Masculino,Indígena
+6MAPA,6,Masculino,Parda
+6MAPR,6,Masculino,Preta
+6MASE,6,Masculino,Sem Declaração
+6FEAM,6,Feminino,Amarela
+6FEBR,6,Feminino,Branca
+6FEIN,6,Feminino,Indígena
+6FEPA,6,Feminino,Parda
+6FEPR,6,Feminino,Preta
+6FESE,6,Feminino,Sem Declaração
+7MAAM,7,Masculino,Amarela
+7MABR,7,Masculino,Branca
+7MAIN,7,Masculino,Indígena
+7MAPA,7,Masculino,Parda
+7MAPR,7,Masculino,Preta
+7MASE,7,Masculino,Sem Declaração
+7FEAM,7,Feminino,Amarela
+7FEBR,7,Feminino,Branca
+7FEIN,7,Feminino,Indígena
+7FEPA,7,Feminino,Parda
+7FEPR,7,Feminino,Preta
+7FESE,7,Feminino,Sem Declaração
+8MAAM,8,Masculino,Amarela
+8MABR,8,Masculino,Branca
+8MAIN,8,Masculino,Indígena
+8MAPA,8,Masculino,Parda
+8MAPR,8,Masculino,Preta
+8MASE,8,Masculino,Sem Declaração
+8FEAM,8,Feminino,Amarela
+8FEBR,8,Feminino,Branca
+8FEIN,8,Feminino,Indígena
+8FEPA,8,Feminino,Parda
+8FEPR,8,Feminino,Preta
+8FESE,8,Feminino,Sem Declaração
+9MAAM,9,Masculino,Amarela
+9MABR,9,Masculino,Branca
+9MAIN,9,Masculino,Indígena
+9MAPA,9,Masculino,Parda
+9MAPR,9,Masculino,Preta
+9MASE,9,Masculino,Sem Declaração
+9FEAM,9,Feminino,Amarela
+9FEBR,9,Feminino,Branca
+9FEIN,9,Feminino,Indígena
+9FEPA,9,Feminino,Parda
+9FEPR,9,Feminino,Preta
+9FESE,9,Feminino,Sem Declaração
+10MAAM,10,Masculino,Amarela
+10MABR,10,Masculino,Branca
+10MAIN,10,Masculino,Indígena
+10MAPA,10,Masculino,Parda
+10MAPR,10,Masculino,Preta
+10MASE,10,Masculino,Sem Declaração
+10FEAM,10,Feminino,Amarela
+10FEBR,10,Feminino,Branca
+10FEIN,10,Feminino,Indígena
+10FEPA,10,Feminino,Parda
+10FEPR,10,Feminino,Preta
+10FESE,10,Feminino,Sem Declaração
+11MAAM,11,Masculino,Amarela
+11MABR,11,Masculino,Branca
+11MAIN,11,Masculino,Indígena
+11MAPA,11,Masculino,Parda
+11MAPR,11,Masculino,Preta
+11MASE,11,Masculino,Sem Declaração
+11FEAM,11,Feminino,Amarela
+11FEBR,11,Feminino,Branca
+11FEIN,11,Feminino,Indígena
+11FEPA,11,Feminino,Parda
+11FEPR,11,Feminino,Preta
+11FESE,11,Feminino,Sem Declaração
+12MAAM,12,Masculino,Amarela
+12MABR,12,Masculino,Branca
+12MAIN,12,Masculino,Indígena
+12MAPA,12,Masculino,Parda
+12MAPR,12,Masculino,Preta
+12MASE,12,Masculino,Sem Declaração
+12FEAM,12,Feminino,Amarela
+12FEBR,12,Feminino,Branca
+12FEIN,12,Feminino,Indígena
+12FEPA,12,Feminino,Parda
+12FEPR,12,Feminino,Preta
+12FESE,12,Feminino,Sem Declaração
+13MAAM,13,Masculino,Amarela
+13MABR,13,Masculino,Branca
+13MAIN,13,Masculino,Indígena
+13MAPA,13,Masculino,Parda
+13MAPR,13,Masculino,Preta
+13MASE,13,Masculino,Sem Declaração
+13FEAM,13,Feminino,Amarela
+13FEBR,13,Feminino,Branca
+13FEIN,13,Feminino,Indígena
+13FEPA,13,Feminino,Parda
+13FEPR,13,Feminino,Preta
+13FESE,13,Feminino,Sem Declaração
+14MAAM,14,Masculino,Amarela
+14MABR,14,Masculino,Branca
+14MAIN,14,Masculino,Indígena
+14MAPA,14,Masculino,Parda
+14MAPR,14,Masculino,Preta
+14MASE,14,Masculino,Sem Declaração
+14FEAM,14,Feminino,Amarela
+14FEBR,14,Feminino,Branca
+14FEIN,14,Feminino,Indígena
+14FEPA,14,Feminino,Parda
+14FEPR,14,Feminino,Preta
+14FESE,14,Feminino,Sem Declaração
+15MAAM,15,Masculino,Amarela
+15MABR,15,Masculino,Branca
+15MAIN,15,Masculino,Indígena
+15MAPA,15,Masculino,Parda
+15MAPR,15,Masculino,Preta
+15MASE,15,Masculino,Sem Declaração
+15FEAM,15,Feminino,Amarela
+15FEBR,15,Feminino,Branca
+15FEIN,15,Feminino,Indígena
+15FEPA,15,Feminino,Parda
+15FEPR,15,Feminino,Preta
+15FESE,15,Feminino,Sem Declaração
+16MAAM,16,Masculino,Amarela
+16MABR,16,Masculino,Branca
+16MAIN,16,Masculino,Indígena
+16MAPA,16,Masculino,Parda
+16MAPR,16,Masculino,Preta
+16MASE,16,Masculino,Sem Declaração
+16FEAM,16,Feminino,Amarela
+16FEBR,16,Feminino,Branca
+16FEIN,16,Feminino,Indígena
+16FEPA,16,Feminino,Parda
+16FEPR,16,Feminino,Preta
+16FESE,16,Feminino,Sem Declaração
+17MAAM,17,Masculino,Amarela
+17MABR,17,Masculino,Branca
+17MAIN,17,Masculino,Indígena
+17MAPA,17,Masculino,Parda
+17MAPR,17,Masculino,Preta
+17MASE,17,Masculino,Sem Declaração
+17FEAM,17,Feminino,Amarela
+17FEBR,17,Feminino,Branca
+17FEIN,17,Feminino,Indígena
+17FEPA,17,Feminino,Parda
+17FEPR,17,Feminino,Preta
+17FESE,17,Feminino,Sem Declaração
+18MAAM,18,Masculino,Amarela
+18MABR,18,Masculino,Branca
+18MAIN,18,Masculino,Indígena
+18MAPA,18,Masculino,Parda
+18MAPR,18,Masculino,Preta
+18MASE,18,Masculino,Sem Declaração
+18FEAM,18,Feminino,Amarela
+18FEBR,18,Feminino,Branca
+18FEIN,18,Feminino,Indígena
+18FEPA,18,Feminino,Parda
+18FEPR,18,Feminino,Preta
+18FESE,18,Feminino,Sem Declaração
+19MAAM,19,Masculino,Amarela
+19MABR,19,Masculino,Branca
+19MAIN,19,Masculino,Indígena
+19MAPA,19,Masculino,Parda
+19MAPR,19,Masculino,Preta
+19MASE,19,Masculino,Sem Declaração
+19FEAM,19,Feminino,Amarela
+19FEBR,19,Feminino,Branca
+19FEIN,19,Feminino,Indígena
+19FEPA,19,Feminino,Parda
+19FEPR,19,Feminino,Preta
+19FESE,19,Feminino,Sem Declaração
+20MAAM,20,Masculino,Amarela
+20MABR,20,Masculino,Branca
+20MAIN,20,Masculino,Indígena
+20MAPA,20,Masculino,Parda
+20MAPR,20,Masculino,Preta
+20MASE,20,Masculino,Sem Declaração
+20FEAM,20,Feminino,Amarela
+20FEBR,20,Feminino,Branca
+20FEIN,20,Feminino,Indígena
+20FEPA,20,Feminino,Parda
+20FEPR,20,Feminino,Preta
+20FESE,20,Feminino,Sem Declaração
+21MAAM,21,Masculino,Amarela
+21MABR,21,Masculino,Branca
+21MAIN,21,Masculino,Indígena
+21MAPA,21,Masculino,Parda
+21MAPR,21,Masculino,Preta
+21MASE,21,Masculino,Sem Declaração
+21FEAM,21,Feminino,Amarela
+21FEBR,21,Feminino,Branca
+21FEIN,21,Feminino,Indígena
+21FEPA,21,Feminino,Parda
+21FEPR,21,Feminino,Preta
+21FESE,21,Feminino,Sem Declaração
+22MAAM,22,Masculino,Amarela
+22MABR,22,Masculino,Branca
+22MAIN,22,Masculino,Indígena
+22MAPA,22,Masculino,Parda
+22MAPR,22,Masculino,Preta
+22MASE,22,Masculino,Sem Declaração
+22FEAM,22,Feminino,Amarela
+22FEBR,22,Feminino,Branca
+22FEIN,22,Feminino,Indígena
+22FEPA,22,Feminino,Parda
+22FEPR,22,Feminino,Preta
+22FESE,22,Feminino,Sem Declaração
+23MAAM,23,Masculino,Amarela
+23MABR,23,Masculino,Branca
+23MAIN,23,Masculino,Indígena
+23MAPA,23,Masculino,Parda
+23MAPR,23,Masculino,Preta
+23MASE,23,Masculino,Sem Declaração
+23FEAM,23,Feminino,Amarela
+23FEBR,23,Feminino,Branca
+23FEIN,23,Feminino,Indígena
+23FEPA,23,Feminino,Parda
+23FEPR,23,Feminino,Preta
+23FESE,23,Feminino,Sem Declaração
+24MAAM,24,Masculino,Amarela
+24MABR,24,Masculino,Branca
+24MAIN,24,Masculino,Indígena
+24MAPA,24,Masculino,Parda
+24MAPR,24,Masculino,Preta
+24MASE,24,Masculino,Sem Declaração
+24FEAM,24,Feminino,Amarela
+24FEBR,24,Feminino,Branca
+24FEIN,24,Feminino,Indígena
+24FEPA,24,Feminino,Parda
+24FEPR,24,Feminino,Preta
+24FESE,24,Feminino,Sem Declaração
+25MAAM,25,Masculino,Amarela
+25MABR,25,Masculino,Branca
+25MAIN,25,Masculino,Indígena
+25MAPA,25,Masculino,Parda
+25MAPR,25,Masculino,Preta
+25MASE,25,Masculino,Sem Declaração
+25FEAM,25,Feminino,Amarela
+25FEBR,25,Feminino,Branca
+25FEIN,25,Feminino,Indígena
+25FEPA,25,Feminino,Parda
+25FEPR,25,Feminino,Preta
+25FESE,25,Feminino,Sem Declaração
+26MAAM,26,Masculino,Amarela
+26MABR,26,Masculino,Branca
+26MAIN,26,Masculino,Indígena
+26MAPA,26,Masculino,Parda
+26MAPR,26,Masculino,Preta
+26MASE,26,Masculino,Sem Declaração
+26FEAM,26,Feminino,Amarela
+26FEBR,26,Feminino,Branca
+26FEIN,26,Feminino,Indígena
+26FEPA,26,Feminino,Parda
+26FEPR,26,Feminino,Preta
+26FESE,26,Feminino,Sem Declaração
+27MAAM,27,Masculino,Amarela
+27MABR,27,Masculino,Branca
+27MAIN,27,Masculino,Indígena
+27MAPA,27,Masculino,Parda
+27MAPR,27,Masculino,Preta
+27MASE,27,Masculino,Sem Declaração
+27FEAM,27,Feminino,Amarela
+27FEBR,27,Feminino,Branca
+27FEIN,27,Feminino,Indígena
+27FEPA,27,Feminino,Parda
+27FEPR,27,Feminino,Preta
+27FESE,27,Feminino,Sem Declaração
+28MAAM,28,Masculino,Amarela
+28MABR,28,Masculino,Branca
+28MAIN,28,Masculino,Indígena
+28MAPA,28,Masculino,Parda
+28MAPR,28,Masculino,Preta
+28MASE,28,Masculino,Sem Declaração
+28FEAM,28,Feminino,Amarela
+28FEBR,28,Feminino,Branca
+28FEIN,28,Feminino,Indígena
+28FEPA,28,Feminino,Parda
+28FEPR,28,Feminino,Preta
+28FESE,28,Feminino,Sem Declaração
+29MAAM,29,Masculino,Amarela
+29MABR,29,Masculino,Branca
+29MAIN,29,Masculino,Indígena
+29MAPA,29,Masculino,Parda
+29MAPR,29,Masculino,Preta
+29MASE,29,Masculino,Sem Declaração
+29FEAM,29,Feminino,Amarela
+29FEBR,29,Feminino,Branca
+29FEIN,29,Feminino,Indígena
+29FEPA,29,Feminino,Parda
+29FEPR,29,Feminino,Preta
+29FESE,29,Feminino,Sem Declaração
+30MAAM,30,Masculino,Amarela
+30MABR,30,Masculino,Branca
+30MAIN,30,Masculino,Indígena
+30MAPA,30,Masculino,Parda
+30MAPR,30,Masculino,Preta
+30MASE,30,Masculino,Sem Declaração
+30FEAM,30,Feminino,Amarela
+30FEBR,30,Feminino,Branca
+30FEIN,30,Feminino,Indígena
+30FEPA,30,Feminino,Parda
+30FEPR,30,Feminino,Preta
+30FESE,30,Feminino,Sem Declaração
+31MAAM,31,Masculino,Amarela
+31MABR,31,Masculino,Branca
+31MAIN,31,Masculino,Indígena
+31MAPA,31,Masculino,Parda
+31MAPR,31,Masculino,Preta
+31MASE,31,Masculino,Sem Declaração
+31FEAM,31,Feminino,Amarela
+31FEBR,31,Feminino,Branca
+31FEIN,31,Feminino,Indígena
+31FEPA,31,Feminino,Parda
+31FEPR,31,Feminino,Preta
+31FESE,31,Feminino,Sem Declaração
+32MAAM,32,Masculino,Amarela
+32MABR,32,Masculino,Branca
+32MAIN,32,Masculino,Indígena
+32MAPA,32,Masculino,Parda
+32MAPR,32,Masculino,Preta
+32MASE,32,Masculino,Sem Declaração
+32FEAM,32,Feminino,Amarela
+32FEBR,32,Feminino,Branca
+32FEIN,32,Feminino,Indígena
+32FEPA,32,Feminino,Parda
+32FEPR,32,Feminino,Preta
+32FESE,32,Feminino,Sem Declaração
+33MAAM,33,Masculino,Amarela
+33MABR,33,Masculino,Branca
+33MAIN,33,Masculino,Indígena
+33MAPA,33,Masculino,Parda
+33MAPR,33,Masculino,Preta
+33MASE,33,Masculino,Sem Declaração
+33FEAM,33,Feminino,Amarela
+33FEBR,33,Feminino,Branca
+33FEIN,33,Feminino,Indígena
+33FEPA,33,Feminino,Parda
+33FEPR,33,Feminino,Preta
+33FESE,33,Feminino,Sem Declaração
+34MAAM,34,Masculino,Amarela
+34MABR,34,Masculino,Branca
+34MAIN,34,Masculino,Indígena
+34MAPA,34,Masculino,Parda
+34MAPR,34,Masculino,Preta
+34MASE,34,Masculino,Sem Declaração
+34FEAM,34,Feminino,Amarela
+34FEBR,34,Feminino,Branca
+34FEIN,34,Feminino,Indígena
+34FEPA,34,Feminino,Parda
+34FEPR,34,Feminino,Preta
+34FESE,34,Feminino,Sem Declaração
+35MAAM,35,Masculino,Amarela
+35MABR,35,Masculino,Branca
+35MAIN,35,Masculino,Indígena
+35MAPA,35,Masculino,Parda
+35MAPR,35,Masculino,Preta
+35MASE,35,Masculino,Sem Declaração
+35FEAM,35,Feminino,Amarela
+35FEBR,35,Feminino,Branca
+35FEIN,35,Feminino,Indígena
+35FEPA,35,Feminino,Parda
+35FEPR,35,Feminino,Preta
+35FESE,35,Feminino,Sem Declaração
+36MAAM,36,Masculino,Amarela
+36MABR,36,Masculino,Branca
+36MAIN,36,Masculino,Indígena
+36MAPA,36,Masculino,Parda
+36MAPR,36,Masculino,Preta
+36MASE,36,Masculino,Sem Declaração
+36FEAM,36,Feminino,Amarela
+36FEBR,36,Feminino,Branca
+36FEIN,36,Feminino,Indígena
+36FEPA,36,Feminino,Parda
+36FEPR,36,Feminino,Preta
+36FESE,36,Feminino,Sem Declaração
+37MAAM,37,Masculino,Amarela
+37MABR,37,Masculino,Branca
+37MAIN,37,Masculino,Indígena
+37MAPA,37,Masculino,Parda
+37MAPR,37,Masculino,Preta
+37MASE,37,Masculino,Sem Declaração
+37FEAM,37,Feminino,Amarela
+37FEBR,37,Feminino,Branca
+37FEIN,37,Feminino,Indígena
+37FEPA,37,Feminino,Parda
+37FEPR,37,Feminino,Preta
+37FESE,37,Feminino,Sem Declaração
+38MAAM,38,Masculino,Amarela
+38MABR,38,Masculino,Branca
+38MAIN,38,Masculino,Indígena
+38MAPA,38,Masculino,Parda
+38MAPR,38,Masculino,Preta
+38MASE,38,Masculino,Sem Declaração
+38FEAM,38,Feminino,Amarela
+38FEBR,38,Feminino,Branca
+38FEIN,38,Feminino,Indígena
+38FEPA,38,Feminino,Parda
+38FEPR,38,Feminino,Preta
+38FESE,38,Feminino,Sem Declaração
+39MAAM,39,Masculino,Amarela
+39MABR,39,Masculino,Branca
+39MAIN,39,Masculino,Indígena
+39MAPA,39,Masculino,Parda
+39MAPR,39,Masculino,Preta
+39MASE,39,Masculino,Sem Declaração
+39FEAM,39,Feminino,Amarela
+39FEBR,39,Feminino,Branca
+39FEIN,39,Feminino,Indígena
+39FEPA,39,Feminino,Parda
+39FEPR,39,Feminino,Preta
+39FESE,39,Feminino,Sem Declaração
+40MAAM,40,Masculino,Amarela
+40MABR,40,Masculino,Branca
+40MAIN,40,Masculino,Indígena
+40MAPA,40,Masculino,Parda
+40MAPR,40,Masculino,Preta
+40MASE,40,Masculino,Sem Declaração
+40FEAM,40,Feminino,Amarela
+40FEBR,40,Feminino,Branca
+40FEIN,40,Feminino,Indígena
+40FEPA,40,Feminino,Parda
+40FEPR,40,Feminino,Preta
+40FESE,40,Feminino,Sem Declaração
+41MAAM,41,Masculino,Amarela
+41MABR,41,Masculino,Branca
+41MAIN,41,Masculino,Indígena
+41MAPA,41,Masculino,Parda
+41MAPR,41,Masculino,Preta
+41MASE,41,Masculino,Sem Declaração
+41FEAM,41,Feminino,Amarela
+41FEBR,41,Feminino,Branca
+41FEIN,41,Feminino,Indígena
+41FEPA,41,Feminino,Parda
+41FEPR,41,Feminino,Preta
+41FESE,41,Feminino,Sem Declaração
+42MAAM,42,Masculino,Amarela
+42MABR,42,Masculino,Branca
+42MAIN,42,Masculino,Indígena
+42MAPA,42,Masculino,Parda
+42MAPR,42,Masculino,Preta
+42MASE,42,Masculino,Sem Declaração
+42FEAM,42,Feminino,Amarela
+42FEBR,42,Feminino,Branca
+42FEIN,42,Feminino,Indígena
+42FEPA,42,Feminino,Parda
+42FEPR,42,Feminino,Preta
+42FESE,42,Feminino,Sem Declaração
+43MAAM,43,Masculino,Amarela
+43MABR,43,Masculino,Branca
+43MAIN,43,Masculino,Indígena
+43MAPA,43,Masculino,Parda
+43MAPR,43,Masculino,Preta
+43MASE,43,Masculino,Sem Declaração
+43FEAM,43,Feminino,Amarela
+43FEBR,43,Feminino,Branca
+43FEIN,43,Feminino,Indígena
+43FEPA,43,Feminino,Parda
+43FEPR,43,Feminino,Preta
+43FESE,43,Feminino,Sem Declaração
+44MAAM,44,Masculino,Amarela
+44MABR,44,Masculino,Branca
+44MAIN,44,Masculino,Indígena
+44MAPA,44,Masculino,Parda
+44MAPR,44,Masculino,Preta
+44MASE,44,Masculino,Sem Declaração
+44FEAM,44,Feminino,Amarela
+44FEBR,44,Feminino,Branca
+44FEIN,44,Feminino,Indígena
+44FEPA,44,Feminino,Parda
+44FEPR,44,Feminino,Preta
+44FESE,44,Feminino,Sem Declaração
+45MAAM,45,Masculino,Amarela
+45MABR,45,Masculino,Branca
+45MAIN,45,Masculino,Indígena
+45MAPA,45,Masculino,Parda
+45MAPR,45,Masculino,Preta
+45MASE,45,Masculino,Sem Declaração
+45FEAM,45,Feminino,Amarela
+45FEBR,45,Feminino,Branca
+45FEIN,45,Feminino,Indígena
+45FEPA,45,Feminino,Parda
+45FEPR,45,Feminino,Preta
+45FESE,45,Feminino,Sem Declaração
+46MAAM,46,Masculino,Amarela
+46MABR,46,Masculino,Branca
+46MAIN,46,Masculino,Indígena
+46MAPA,46,Masculino,Parda
+46MAPR,46,Masculino,Preta
+46MASE,46,Masculino,Sem Declaração
+46FEAM,46,Feminino,Amarela
+46FEBR,46,Feminino,Branca
+46FEIN,46,Feminino,Indígena
+46FEPA,46,Feminino,Parda
+46FEPR,46,Feminino,Preta
+46FESE,46,Feminino,Sem Declaração
+47MAAM,47,Masculino,Amarela
+47MABR,47,Masculino,Branca
+47MAIN,47,Masculino,Indígena
+47MAPA,47,Masculino,Parda
+47MAPR,47,Masculino,Preta
+47MASE,47,Masculino,Sem Declaração
+47FEAM,47,Feminino,Amarela
+47FEBR,47,Feminino,Branca
+47FEIN,47,Feminino,Indígena
+47FEPA,47,Feminino,Parda
+47FEPR,47,Feminino,Preta
+47FESE,47,Feminino,Sem Declaração
+48MAAM,48,Masculino,Amarela
+48MABR,48,Masculino,Branca
+48MAIN,48,Masculino,Indígena
+48MAPA,48,Masculino,Parda
+48MAPR,48,Masculino,Preta
+48MASE,48,Masculino,Sem Declaração
+48FEAM,48,Feminino,Amarela
+48FEBR,48,Feminino,Branca
+48FEIN,48,Feminino,Indígena
+48FEPA,48,Feminino,Parda
+48FEPR,48,Feminino,Preta
+48FESE,48,Feminino,Sem Declaração
+49MAAM,49,Masculino,Amarela
+49MABR,49,Masculino,Branca
+49MAIN,49,Masculino,Indígena
+49MAPA,49,Masculino,Parda
+49MAPR,49,Masculino,Preta
+49MASE,49,Masculino,Sem Declaração
+49FEAM,49,Feminino,Amarela
+49FEBR,49,Feminino,Branca
+49FEIN,49,Feminino,Indígena
+49FEPA,49,Feminino,Parda
+49FEPR,49,Feminino,Preta
+49FESE,49,Feminino,Sem Declaração
+50MAAM,50,Masculino,Amarela
+50MABR,50,Masculino,Branca
+50MAIN,50,Masculino,Indígena
+50MAPA,50,Masculino,Parda
+50MAPR,50,Masculino,Preta
+50MASE,50,Masculino,Sem Declaração
+50FEAM,50,Feminino,Amarela
+50FEBR,50,Feminino,Branca
+50FEIN,50,Feminino,Indígena
+50FEPA,50,Feminino,Parda
+50FEPR,50,Feminino,Preta
+50FESE,50,Feminino,Sem Declaração
+51MAAM,51,Masculino,Amarela
+51MABR,51,Masculino,Branca
+51MAIN,51,Masculino,Indígena
+51MAPA,51,Masculino,Parda
+51MAPR,51,Masculino,Preta
+51MASE,51,Masculino,Sem Declaração
+51FEAM,51,Feminino,Amarela
+51FEBR,51,Feminino,Branca
+51FEIN,51,Feminino,Indígena
+51FEPA,51,Feminino,Parda
+51FEPR,51,Feminino,Preta
+51FESE,51,Feminino,Sem Declaração
+52MAAM,52,Masculino,Amarela
+52MABR,52,Masculino,Branca
+52MAIN,52,Masculino,Indígena
+52MAPA,52,Masculino,Parda
+52MAPR,52,Masculino,Preta
+52MASE,52,Masculino,Sem Declaração
+52FEAM,52,Feminino,Amarela
+52FEBR,52,Feminino,Branca
+52FEIN,52,Feminino,Indígena
+52FEPA,52,Feminino,Parda
+52FEPR,52,Feminino,Preta
+52FESE,52,Feminino,Sem Declaração
+53MAAM,53,Masculino,Amarela
+53MABR,53,Masculino,Branca
+53MAIN,53,Masculino,Indígena
+53MAPA,53,Masculino,Parda
+53MAPR,53,Masculino,Preta
+53MASE,53,Masculino,Sem Declaração
+53FEAM,53,Feminino,Amarela
+53FEBR,53,Feminino,Branca
+53FEIN,53,Feminino,Indígena
+53FEPA,53,Feminino,Parda
+53FEPR,53,Feminino,Preta
+53FESE,53,Feminino,Sem Declaração
+54MAAM,54,Masculino,Amarela
+54MABR,54,Masculino,Branca
+54MAIN,54,Masculino,Indígena
+54MAPA,54,Masculino,Parda
+54MAPR,54,Masculino,Preta
+54MASE,54,Masculino,Sem Declaração
+54FEAM,54,Feminino,Amarela
+54FEBR,54,Feminino,Branca
+54FEIN,54,Feminino,Indígena
+54FEPA,54,Feminino,Parda
+54FEPR,54,Feminino,Preta
+54FESE,54,Feminino,Sem Declaração
+55MAAM,55,Masculino,Amarela
+55MABR,55,Masculino,Branca
+55MAIN,55,Masculino,Indígena
+55MAPA,55,Masculino,Parda
+55MAPR,55,Masculino,Preta
+55MASE,55,Masculino,Sem Declaração
+55FEAM,55,Feminino,Amarela
+55FEBR,55,Feminino,Branca
+55FEIN,55,Feminino,Indígena
+55FEPA,55,Feminino,Parda
+55FEPR,55,Feminino,Preta
+55FESE,55,Feminino,Sem Declaração
+56MAAM,56,Masculino,Amarela
+56MABR,56,Masculino,Branca
+56MAIN,56,Masculino,Indígena
+56MAPA,56,Masculino,Parda
+56MAPR,56,Masculino,Preta
+56MASE,56,Masculino,Sem Declaração
+56FEAM,56,Feminino,Amarela
+56FEBR,56,Feminino,Branca
+56FEIN,56,Feminino,Indígena
+56FEPA,56,Feminino,Parda
+56FEPR,56,Feminino,Preta
+56FESE,56,Feminino,Sem Declaração
+57MAAM,57,Masculino,Amarela
+57MABR,57,Masculino,Branca
+57MAIN,57,Masculino,Indígena
+57MAPA,57,Masculino,Parda
+57MAPR,57,Masculino,Preta
+57MASE,57,Masculino,Sem Declaração
+57FEAM,57,Feminino,Amarela
+57FEBR,57,Feminino,Branca
+57FEIN,57,Feminino,Indígena
+57FEPA,57,Feminino,Parda
+57FEPR,57,Feminino,Preta
+57FESE,57,Feminino,Sem Declaração
+58MAAM,58,Masculino,Amarela
+58MABR,58,Masculino,Branca
+58MAIN,58,Masculino,Indígena
+58MAPA,58,Masculino,Parda
+58MAPR,58,Masculino,Preta
+58MASE,58,Masculino,Sem Declaração
+58FEAM,58,Feminino,Amarela
+58FEBR,58,Feminino,Branca
+58FEIN,58,Feminino,Indígena
+58FEPA,58,Feminino,Parda
+58FEPR,58,Feminino,Preta
+58FESE,58,Feminino,Sem Declaração
+59MAAM,59,Masculino,Amarela
+59MABR,59,Masculino,Branca
+59MAIN,59,Masculino,Indígena
+59MAPA,59,Masculino,Parda
+59MAPR,59,Masculino,Preta
+59MASE,59,Masculino,Sem Declaração
+59FEAM,59,Feminino,Amarela
+59FEBR,59,Feminino,Branca
+59FEIN,59,Feminino,Indígena
+59FEPA,59,Feminino,Parda
+59FEPR,59,Feminino,Preta
+59FESE,59,Feminino,Sem Declaração
+60MAAM,60,Masculino,Amarela
+60MABR,60,Masculino,Branca
+60MAIN,60,Masculino,Indígena
+60MAPA,60,Masculino,Parda
+60MAPR,60,Masculino,Preta
+60MASE,60,Masculino,Sem Declaração
+60FEAM,60,Feminino,Amarela
+60FEBR,60,Feminino,Branca
+60FEIN,60,Feminino,Indígena
+60FEPA,60,Feminino,Parda
+60FEPR,60,Feminino,Preta
+60FESE,60,Feminino,Sem Declaração
+61MAAM,61,Masculino,Amarela
+61MABR,61,Masculino,Branca
+61MAIN,61,Masculino,Indígena
+61MAPA,61,Masculino,Parda
+61MAPR,61,Masculino,Preta
+61MASE,61,Masculino,Sem Declaração
+61FEAM,61,Feminino,Amarela
+61FEBR,61,Feminino,Branca
+61FEIN,61,Feminino,Indígena
+61FEPA,61,Feminino,Parda
+61FEPR,61,Feminino,Preta
+61FESE,61,Feminino,Sem Declaração
+62MAAM,62,Masculino,Amarela
+62MABR,62,Masculino,Branca
+62MAIN,62,Masculino,Indígena
+62MAPA,62,Masculino,Parda
+62MAPR,62,Masculino,Preta
+62MASE,62,Masculino,Sem Declaração
+62FEAM,62,Feminino,Amarela
+62FEBR,62,Feminino,Branca
+62FEIN,62,Feminino,Indígena
+62FEPA,62,Feminino,Parda
+62FEPR,62,Feminino,Preta
+62FESE,62,Feminino,Sem Declaração
+63MAAM,63,Masculino,Amarela
+63MABR,63,Masculino,Branca
+63MAIN,63,Masculino,Indígena
+63MAPA,63,Masculino,Parda
+63MAPR,63,Masculino,Preta
+63MASE,63,Masculino,Sem Declaração
+63FEAM,63,Feminino,Amarela
+63FEBR,63,Feminino,Branca
+63FEIN,63,Feminino,Indígena
+63FEPA,63,Feminino,Parda
+63FEPR,63,Feminino,Preta
+63FESE,63,Feminino,Sem Declaração
+64MAAM,64,Masculino,Amarela
+64MABR,64,Masculino,Branca
+64MAIN,64,Masculino,Indígena
+64MAPA,64,Masculino,Parda
+64MAPR,64,Masculino,Preta
+64MASE,64,Masculino,Sem Declaração
+64FEAM,64,Feminino,Amarela
+64FEBR,64,Feminino,Branca
+64FEIN,64,Feminino,Indígena
+64FEPA,64,Feminino,Parda
+64FEPR,64,Feminino,Preta
+64FESE,64,Feminino,Sem Declaração
+65MAAM,65,Masculino,Amarela
+65MABR,65,Masculino,Branca
+65MAIN,65,Masculino,Indígena
+65MAPA,65,Masculino,Parda
+65MAPR,65,Masculino,Preta
+65MASE,65,Masculino,Sem Declaração
+65FEAM,65,Feminino,Amarela
+65FEBR,65,Feminino,Branca
+65FEIN,65,Feminino,Indígena
+65FEPA,65,Feminino,Parda
+65FEPR,65,Feminino,Preta
+65FESE,65,Feminino,Sem Declaração
+66MAAM,66,Masculino,Amarela
+66MABR,66,Masculino,Branca
+66MAIN,66,Masculino,Indígena
+66MAPA,66,Masculino,Parda
+66MAPR,66,Masculino,Preta
+66MASE,66,Masculino,Sem Declaração
+66FEAM,66,Feminino,Amarela
+66FEBR,66,Feminino,Branca
+66FEIN,66,Feminino,Indígena
+66FEPA,66,Feminino,Parda
+66FEPR,66,Feminino,Preta
+66FESE,66,Feminino,Sem Declaração
+67MAAM,67,Masculino,Amarela
+67MABR,67,Masculino,Branca
+67MAIN,67,Masculino,Indígena
+67MAPA,67,Masculino,Parda
+67MAPR,67,Masculino,Preta
+67MASE,67,Masculino,Sem Declaração
+67FEAM,67,Feminino,Amarela
+67FEBR,67,Feminino,Branca
+67FEIN,67,Feminino,Indígena
+67FEPA,67,Feminino,Parda
+67FEPR,67,Feminino,Preta
+67FESE,67,Feminino,Sem Declaração
+68MAAM,68,Masculino,Amarela
+68MABR,68,Masculino,Branca
+68MAIN,68,Masculino,Indígena
+68MAPA,68,Masculino,Parda
+68MAPR,68,Masculino,Preta
+68MASE,68,Masculino,Sem Declaração
+68FEAM,68,Feminino,Amarela
+68FEBR,68,Feminino,Branca
+68FEIN,68,Feminino,Indígena
+68FEPA,68,Feminino,Parda
+68FEPR,68,Feminino,Preta
+68FESE,68,Feminino,Sem Declaração
+69MAAM,69,Masculino,Amarela
+69MABR,69,Masculino,Branca
+69MAIN,69,Masculino,Indígena
+69MAPA,69,Masculino,Parda
+69MAPR,69,Masculino,Preta
+69MASE,69,Masculino,Sem Declaração
+69FEAM,69,Feminino,Amarela
+69FEBR,69,Feminino,Branca
+69FEIN,69,Feminino,Indígena
+69FEPA,69,Feminino,Parda
+69FEPR,69,Feminino,Preta
+69FESE,69,Feminino,Sem Declaração
+70MAAM,70,Masculino,Amarela
+70MABR,70,Masculino,Branca
+70MAIN,70,Masculino,Indígena
+70MAPA,70,Masculino,Parda
+70MAPR,70,Masculino,Preta
+70MASE,70,Masculino,Sem Declaração
+70FEAM,70,Feminino,Amarela
+70FEBR,70,Feminino,Branca
+70FEIN,70,Feminino,Indígena
+70FEPA,70,Feminino,Parda
+70FEPR,70,Feminino,Preta
+70FESE,70,Feminino,Sem Declaração
+71MAAM,71,Masculino,Amarela
+71MABR,71,Masculino,Branca
+71MAIN,71,Masculino,Indígena
+71MAPA,71,Masculino,Parda
+71MAPR,71,Masculino,Preta
+71MASE,71,Masculino,Sem Declaração
+71FEAM,71,Feminino,Amarela
+71FEBR,71,Feminino,Branca
+71FEIN,71,Feminino,Indígena
+71FEPA,71,Feminino,Parda
+71FEPR,71,Feminino,Preta
+71FESE,71,Feminino,Sem Declaração
+72MAAM,72,Masculino,Amarela
+72MABR,72,Masculino,Branca
+72MAIN,72,Masculino,Indígena
+72MAPA,72,Masculino,Parda
+72MAPR,72,Masculino,Preta
+72MASE,72,Masculino,Sem Declaração
+72FEAM,72,Feminino,Amarela
+72FEBR,72,Feminino,Branca
+72FEIN,72,Feminino,Indígena
+72FEPA,72,Feminino,Parda
+72FEPR,72,Feminino,Preta
+72FESE,72,Feminino,Sem Declaração
+73MAAM,73,Masculino,Amarela
+73MABR,73,Masculino,Branca
+73MAIN,73,Masculino,Indígena
+73MAPA,73,Masculino,Parda
+73MAPR,73,Masculino,Preta
+73MASE,73,Masculino,Sem Declaração
+73FEAM,73,Feminino,Amarela
+73FEBR,73,Feminino,Branca
+73FEIN,73,Feminino,Indígena
+73FEPA,73,Feminino,Parda
+73FEPR,73,Feminino,Preta
+73FESE,73,Feminino,Sem Declaração
+74MAAM,74,Masculino,Amarela
+74MABR,74,Masculino,Branca
+74MAIN,74,Masculino,Indígena
+74MAPA,74,Masculino,Parda
+74MAPR,74,Masculino,Preta
+74MASE,74,Masculino,Sem Declaração
+74FEAM,74,Feminino,Amarela
+74FEBR,74,Feminino,Branca
+74FEIN,74,Feminino,Indígena
+74FEPA,74,Feminino,Parda
+74FEPR,74,Feminino,Preta
+74FESE,74,Feminino,Sem Declaração
+75MAAM,75,Masculino,Amarela
+75MABR,75,Masculino,Branca
+75MAIN,75,Masculino,Indígena
+75MAPA,75,Masculino,Parda
+75MAPR,75,Masculino,Preta
+75MASE,75,Masculino,Sem Declaração
+75FEAM,75,Feminino,Amarela
+75FEBR,75,Feminino,Branca
+75FEIN,75,Feminino,Indígena
+75FEPA,75,Feminino,Parda
+75FEPR,75,Feminino,Preta
+75FESE,75,Feminino,Sem Declaração
+76MAAM,76,Masculino,Amarela
+76MABR,76,Masculino,Branca
+76MAIN,76,Masculino,Indígena
+76MAPA,76,Masculino,Parda
+76MAPR,76,Masculino,Preta
+76MASE,76,Masculino,Sem Declaração
+76FEAM,76,Feminino,Amarela
+76FEBR,76,Feminino,Branca
+76FEIN,76,Feminino,Indígena
+76FEPA,76,Feminino,Parda
+76FEPR,76,Feminino,Preta
+76FESE,76,Feminino,Sem Declaração
+77MAAM,77,Masculino,Amarela
+77MABR,77,Masculino,Branca
+77MAIN,77,Masculino,Indígena
+77MAPA,77,Masculino,Parda
+77MAPR,77,Masculino,Preta
+77MASE,77,Masculino,Sem Declaração
+77FEAM,77,Feminino,Amarela
+77FEBR,77,Feminino,Branca
+77FEIN,77,Feminino,Indígena
+77FEPA,77,Feminino,Parda
+77FEPR,77,Feminino,Preta
+77FESE,77,Feminino,Sem Declaração
+78MAAM,78,Masculino,Amarela
+78MABR,78,Masculino,Branca
+78MAIN,78,Masculino,Indígena
+78MAPA,78,Masculino,Parda
+78MAPR,78,Masculino,Preta
+78MASE,78,Masculino,Sem Declaração
+78FEAM,78,Feminino,Amarela
+78FEBR,78,Feminino,Branca
+78FEIN,78,Feminino,Indígena
+78FEPA,78,Feminino,Parda
+78FEPR,78,Feminino,Preta
+78FESE,78,Feminino,Sem Declaração
+79MAAM,79,Masculino,Amarela
+79MABR,79,Masculino,Branca
+79MAIN,79,Masculino,Indígena
+79MAPA,79,Masculino,Parda
+79MAPR,79,Masculino,Preta
+79MASE,79,Masculino,Sem Declaração
+79FEAM,79,Feminino,Amarela
+79FEBR,79,Feminino,Branca
+79FEIN,79,Feminino,Indígena
+79FEPA,79,Feminino,Parda
+79FEPR,79,Feminino,Preta
+79FESE,79,Feminino,Sem Declaração
+80MAAM,80,Masculino,Amarela
+80MABR,80,Masculino,Branca
+80MAIN,80,Masculino,Indígena
+80MAPA,80,Masculino,Parda
+80MAPR,80,Masculino,Preta
+80MASE,80,Masculino,Sem Declaração
+80FEAM,80,Feminino,Amarela
+80FEBR,80,Feminino,Branca
+80FEIN,80,Feminino,Indígena
+80FEPA,80,Feminino,Parda
+80FEPR,80,Feminino,Preta
+80FESE,80,Feminino,Sem Declaração
+81MAAM,81,Masculino,Amarela
+81MABR,81,Masculino,Branca
+81MAIN,81,Masculino,Indígena
+81MAPA,81,Masculino,Parda
+81MAPR,81,Masculino,Preta
+81MASE,81,Masculino,Sem Declaração
+81FEAM,81,Feminino,Amarela
+81FEBR,81,Feminino,Branca
+81FEIN,81,Feminino,Indígena
+81FEPA,81,Feminino,Parda
+81FEPR,81,Feminino,Preta
+81FESE,81,Feminino,Sem Declaração
+82MAAM,82,Masculino,Amarela
+82MABR,82,Masculino,Branca
+82MAIN,82,Masculino,Indígena
+82MAPA,82,Masculino,Parda
+82MAPR,82,Masculino,Preta
+82MASE,82,Masculino,Sem Declaração
+82FEAM,82,Feminino,Amarela
+82FEBR,82,Feminino,Branca
+82FEIN,82,Feminino,Indígena
+82FEPA,82,Feminino,Parda
+82FEPR,82,Feminino,Preta
+82FESE,82,Feminino,Sem Declaração
+83MAAM,83,Masculino,Amarela
+83MABR,83,Masculino,Branca
+83MAIN,83,Masculino,Indígena
+83MAPA,83,Masculino,Parda
+83MAPR,83,Masculino,Preta
+83MASE,83,Masculino,Sem Declaração
+83FEAM,83,Feminino,Amarela
+83FEBR,83,Feminino,Branca
+83FEIN,83,Feminino,Indígena
+83FEPA,83,Feminino,Parda
+83FEPR,83,Feminino,Preta
+83FESE,83,Feminino,Sem Declaração
+84MAAM,84,Masculino,Amarela
+84MABR,84,Masculino,Branca
+84MAIN,84,Masculino,Indígena
+84MAPA,84,Masculino,Parda
+84MAPR,84,Masculino,Preta
+84MASE,84,Masculino,Sem Declaração
+84FEAM,84,Feminino,Amarela
+84FEBR,84,Feminino,Branca
+84FEIN,84,Feminino,Indígena
+84FEPA,84,Feminino,Parda
+84FEPR,84,Feminino,Preta
+84FESE,84,Feminino,Sem Declaração
+85MAAM,85,Masculino,Amarela
+85MABR,85,Masculino,Branca
+85MAIN,85,Masculino,Indígena
+85MAPA,85,Masculino,Parda
+85MAPR,85,Masculino,Preta
+85MASE,85,Masculino,Sem Declaração
+85FEAM,85,Feminino,Amarela
+85FEBR,85,Feminino,Branca
+85FEIN,85,Feminino,Indígena
+85FEPA,85,Feminino,Parda
+85FEPR,85,Feminino,Preta
+85FESE,85,Feminino,Sem Declaração
+86MAAM,86,Masculino,Amarela
+86MABR,86,Masculino,Branca
+86MAIN,86,Masculino,Indígena
+86MAPA,86,Masculino,Parda
+86MAPR,86,Masculino,Preta
+86MASE,86,Masculino,Sem Declaração
+86FEAM,86,Feminino,Amarela
+86FEBR,86,Feminino,Branca
+86FEIN,86,Feminino,Indígena
+86FEPA,86,Feminino,Parda
+86FEPR,86,Feminino,Preta
+86FESE,86,Feminino,Sem Declaração
+87MAAM,87,Masculino,Amarela
+87MABR,87,Masculino,Branca
+87MAIN,87,Masculino,Indígena
+87MAPA,87,Masculino,Parda
+87MAPR,87,Masculino,Preta
+87MASE,87,Masculino,Sem Declaração
+87FEAM,87,Feminino,Amarela
+87FEBR,87,Feminino,Branca
+87FEIN,87,Feminino,Indígena
+87FEPA,87,Feminino,Parda
+87FEPR,87,Feminino,Preta
+87FESE,87,Feminino,Sem Declaração
+88MAAM,88,Masculino,Amarela
+88MABR,88,Masculino,Branca
+88MAIN,88,Masculino,Indígena
+88MAPA,88,Masculino,Parda
+88MAPR,88,Masculino,Preta
+88MASE,88,Masculino,Sem Declaração
+88FEAM,88,Feminino,Amarela
+88FEBR,88,Feminino,Branca
+88FEIN,88,Feminino,Indígena
+88FEPA,88,Feminino,Parda
+88FEPR,88,Feminino,Preta
+88FESE,88,Feminino,Sem Declaração
+89MAAM,89,Masculino,Amarela
+89MABR,89,Masculino,Branca
+89MAIN,89,Masculino,Indígena
+89MAPA,89,Masculino,Parda
+89MAPR,89,Masculino,Preta
+89MASE,89,Masculino,Sem Declaração
+89FEAM,89,Feminino,Amarela
+89FEBR,89,Feminino,Branca
+89FEIN,89,Feminino,Indígena
+89FEPA,89,Feminino,Parda
+89FEPR,89,Feminino,Preta
+89FESE,89,Feminino,Sem Declaração
+90MAAM,90,Masculino,Amarela
+90MABR,90,Masculino,Branca
+90MAIN,90,Masculino,Indígena
+90MAPA,90,Masculino,Parda
+90MAPR,90,Masculino,Preta
+90MASE,90,Masculino,Sem Declaração
+90FEAM,90,Feminino,Amarela
+90FEBR,90,Feminino,Branca
+90FEIN,90,Feminino,Indígena
+90FEPA,90,Feminino,Parda
+90FEPR,90,Feminino,Preta
+90FESE,90,Feminino,Sem Declaração
+91MAAM,91,Masculino,Amarela
+91MABR,91,Masculino,Branca
+91MAIN,91,Masculino,Indígena
+91MAPA,91,Masculino,Parda
+91MAPR,91,Masculino,Preta
+91MASE,91,Masculino,Sem Declaração
+91FEAM,91,Feminino,Amarela
+91FEBR,91,Feminino,Branca
+91FEIN,91,Feminino,Indígena
+91FEPA,91,Feminino,Parda
+91FEPR,91,Feminino,Preta
+91FESE,91,Feminino,Sem Declaração
+92MAAM,92,Masculino,Amarela
+92MABR,92,Masculino,Branca
+92MAIN,92,Masculino,Indígena
+92MAPA,92,Masculino,Parda
+92MAPR,92,Masculino,Preta
+92MASE,92,Masculino,Sem Declaração
+92FEAM,92,Feminino,Amarela
+92FEBR,92,Feminino,Branca
+92FEIN,92,Feminino,Indígena
+92FEPA,92,Feminino,Parda
+92FEPR,92,Feminino,Preta
+92FESE,92,Feminino,Sem Declaração
+93MAAM,93,Masculino,Amarela
+93MABR,93,Masculino,Branca
+93MAIN,93,Masculino,Indígena
+93MAPA,93,Masculino,Parda
+93MAPR,93,Masculino,Preta
+93MASE,93,Masculino,Sem Declaração
+93FEAM,93,Feminino,Amarela
+93FEBR,93,Feminino,Branca
+93FEIN,93,Feminino,Indígena
+93FEPA,93,Feminino,Parda
+93FEPR,93,Feminino,Preta
+93FESE,93,Feminino,Sem Declaração
+94MAAM,94,Masculino,Amarela
+94MABR,94,Masculino,Branca
+94MAIN,94,Masculino,Indígena
+94MAPA,94,Masculino,Parda
+94MAPR,94,Masculino,Preta
+94MASE,94,Masculino,Sem Declaração
+94FEAM,94,Feminino,Amarela
+94FEBR,94,Feminino,Branca
+94FEIN,94,Feminino,Indígena
+94FEPA,94,Feminino,Parda
+94FEPR,94,Feminino,Preta
+94FESE,94,Feminino,Sem Declaração
+95MAAM,95,Masculino,Amarela
+95MABR,95,Masculino,Branca
+95MAIN,95,Masculino,Indígena
+95MAPA,95,Masculino,Parda
+95MAPR,95,Masculino,Preta
+95MASE,95,Masculino,Sem Declaração
+95FEAM,95,Feminino,Amarela
+95FEBR,95,Feminino,Branca
+95FEIN,95,Feminino,Indígena
+95FEPA,95,Feminino,Parda
+95FEPR,95,Feminino,Preta
+95FESE,95,Feminino,Sem Declaração
+96MAAM,96,Masculino,Amarela
+96MABR,96,Masculino,Branca
+96MAIN,96,Masculino,Indígena
+96MAPA,96,Masculino,Parda
+96MAPR,96,Masculino,Preta
+96MASE,96,Masculino,Sem Declaração
+96FEAM,96,Feminino,Amarela
+96FEBR,96,Feminino,Branca
+96FEIN,96,Feminino,Indígena
+96FEPA,96,Feminino,Parda
+96FEPR,96,Feminino,Preta
+96FESE,96,Feminino,Sem Declaração
+97MAAM,97,Masculino,Amarela
+97MABR,97,Masculino,Branca
+97MAIN,97,Masculino,Indígena
+97MAPA,97,Masculino,Parda
+97MAPR,97,Masculino,Preta
+97MASE,97,Masculino,Sem Declaração
+97FEAM,97,Feminino,Amarela
+97FEBR,97,Feminino,Branca
+97FEIN,97,Feminino,Indígena
+97FEPA,97,Feminino,Parda
+97FEPR,97,Feminino,Preta
+97FESE,97,Feminino,Sem Declaração
+98MAAM,98,Masculino,Amarela
+98MABR,98,Masculino,Branca
+98MAIN,98,Masculino,Indígena
+98MAPA,98,Masculino,Parda
+98MAPR,98,Masculino,Preta
+98MASE,98,Masculino,Sem Declaração
+98FEAM,98,Feminino,Amarela
+98FEBR,98,Feminino,Branca
+98FEIN,98,Feminino,Indígena
+98FEPA,98,Feminino,Parda
+98FEPR,98,Feminino,Preta
+98FESE,98,Feminino,Sem Declaração
+99MAAM,99,Masculino,Amarela
+99MABR,99,Masculino,Branca
+99MAIN,99,Masculino,Indígena
+99MAPA,99,Masculino,Parda
+99MAPR,99,Masculino,Preta
+99MASE,99,Masculino,Sem Declaração
+99FEAM,99,Feminino,Amarela
+99FEBR,99,Feminino,Branca
+99FEIN,99,Feminino,Indígena
+99FEPA,99,Feminino,Parda
+99FEPR,99,Feminino,Preta
+99FESE,99,Feminino,Sem Declaração
+100MAAM,100,Masculino,Amarela
+100MABR,100,Masculino,Branca
+100MAIN,100,Masculino,Indígena
+100MAPA,100,Masculino,Parda
+100MAPR,100,Masculino,Preta
+100MASE,100,Masculino,Sem Declaração
+100FEAM,100,Feminino,Amarela
+100FEBR,100,Feminino,Branca
+100FEIN,100,Feminino,Indígena
+100FEPA,100,Feminino,Parda
+100FEPR,100,Feminino,Preta
+100FESE,100,Feminino,Sem Declaração
+101MAAM,101,Masculino,Amarela
+101MABR,101,Masculino,Branca
+101MAIN,101,Masculino,Indígena
+101MAPA,101,Masculino,Parda
+101MAPR,101,Masculino,Preta
+101MASE,101,Masculino,Sem Declaração
+101FEAM,101,Feminino,Amarela
+101FEBR,101,Feminino,Branca
+101FEIN,101,Feminino,Indígena
+101FEPA,101,Feminino,Parda
+101FEPR,101,Feminino,Preta
+101FESE,101,Feminino,Sem Declaração
+102MAAM,102,Masculino,Amarela
+102MABR,102,Masculino,Branca
+102MAIN,102,Masculino,Indígena
+102MAPA,102,Masculino,Parda
+102MAPR,102,Masculino,Preta
+102MASE,102,Masculino,Sem Declaração
+102FEAM,102,Feminino,Amarela
+102FEBR,102,Feminino,Branca
+102FEIN,102,Feminino,Indígena
+102FEPA,102,Feminino,Parda
+102FEPR,102,Feminino,Preta
+102FESE,102,Feminino,Sem Declaração
+103MAAM,103,Masculino,Amarela
+103MABR,103,Masculino,Branca
+103MAIN,103,Masculino,Indígena
+103MAPA,103,Masculino,Parda
+103MAPR,103,Masculino,Preta
+103MASE,103,Masculino,Sem Declaração
+103FEAM,103,Feminino,Amarela
+103FEBR,103,Feminino,Branca
+103FEIN,103,Feminino,Indígena
+103FEPA,103,Feminino,Parda
+103FEPR,103,Feminino,Preta
+103FESE,103,Feminino,Sem Declaração
+104MAAM,104,Masculino,Amarela
+104MABR,104,Masculino,Branca
+104MAIN,104,Masculino,Indígena
+104MAPA,104,Masculino,Parda
+104MAPR,104,Masculino,Preta
+104MASE,104,Masculino,Sem Declaração
+104FEAM,104,Feminino,Amarela
+104FEBR,104,Feminino,Branca
+104FEIN,104,Feminino,Indígena
+104FEPA,104,Feminino,Parda
+104FEPR,104,Feminino,Preta
+104FESE,104,Feminino,Sem Declaração
+105MAAM,105,Masculino,Amarela
+105MABR,105,Masculino,Branca
+105MAIN,105,Masculino,Indígena
+105MAPA,105,Masculino,Parda
+105MAPR,105,Masculino,Preta
+105MASE,105,Masculino,Sem Declaração
+105FEAM,105,Feminino,Amarela
+105FEBR,105,Feminino,Branca
+105FEIN,105,Feminino,Indígena
+105FEPA,105,Feminino,Parda
+105FEPR,105,Feminino,Preta
+105FESE,105,Feminino,Sem Declaração
+106MAAM,106,Masculino,Amarela
+106MABR,106,Masculino,Branca
+106MAIN,106,Masculino,Indígena
+106MAPA,106,Masculino,Parda
+106MAPR,106,Masculino,Preta
+106MASE,106,Masculino,Sem Declaração
+106FEAM,106,Feminino,Amarela
+106FEBR,106,Feminino,Branca
+106FEIN,106,Feminino,Indígena
+106FEPA,106,Feminino,Parda
+106FEPR,106,Feminino,Preta
+106FESE,106,Feminino,Sem Declaração
+107MAAM,107,Masculino,Amarela
+107MABR,107,Masculino,Branca
+107MAIN,107,Masculino,Indígena
+107MAPA,107,Masculino,Parda
+107MAPR,107,Masculino,Preta
+107MASE,107,Masculino,Sem Declaração
+107FEAM,107,Feminino,Amarela
+107FEBR,107,Feminino,Branca
+107FEIN,107,Feminino,Indígena
+107FEPA,107,Feminino,Parda
+107FEPR,107,Feminino,Preta
+107FESE,107,Feminino,Sem Declaração
+108MAAM,108,Masculino,Amarela
+108MABR,108,Masculino,Branca
+108MAIN,108,Masculino,Indígena
+108MAPA,108,Masculino,Parda
+108MAPR,108,Masculino,Preta
+108MASE,108,Masculino,Sem Declaração
+108FEAM,108,Feminino,Amarela
+108FEBR,108,Feminino,Branca
+108FEIN,108,Feminino,Indígena
+108FEPA,108,Feminino,Parda
+108FEPR,108,Feminino,Preta
+108FESE,108,Feminino,Sem Declaração
+109MAAM,109,Masculino,Amarela
+109MABR,109,Masculino,Branca
+109MAIN,109,Masculino,Indígena
+109MAPA,109,Masculino,Parda
+109MAPR,109,Masculino,Preta
+109MASE,109,Masculino,Sem Declaração
+109FEAM,109,Feminino,Amarela
+109FEBR,109,Feminino,Branca
+109FEIN,109,Feminino,Indígena
+109FEPA,109,Feminino,Parda
+109FEPR,109,Feminino,Preta
+109FESE,109,Feminino,Sem Declaração
+110MAAM,110,Masculino,Amarela
+110MABR,110,Masculino,Branca
+110MAIN,110,Masculino,Indígena
+110MAPA,110,Masculino,Parda
+110MAPR,110,Masculino,Preta
+110MASE,110,Masculino,Sem Declaração
+110FEAM,110,Feminino,Amarela
+110FEBR,110,Feminino,Branca
+110FEIN,110,Feminino,Indígena
+110FEPA,110,Feminino,Parda
+110FEPR,110,Feminino,Preta
+110FESE,110,Feminino,Sem Declaração
+111MAAM,111,Masculino,Amarela
+111MABR,111,Masculino,Branca
+111MAIN,111,Masculino,Indígena
+111MAPA,111,Masculino,Parda
+111MAPR,111,Masculino,Preta
+111MASE,111,Masculino,Sem Declaração
+111FEAM,111,Feminino,Amarela
+111FEBR,111,Feminino,Branca
+111FEIN,111,Feminino,Indígena
+111FEPA,111,Feminino,Parda
+111FEPR,111,Feminino,Preta
+111FESE,111,Feminino,Sem Declaração
+112MAAM,112,Masculino,Amarela
+112MABR,112,Masculino,Branca
+112MAIN,112,Masculino,Indígena
+112MAPA,112,Masculino,Parda
+112MAPR,112,Masculino,Preta
+112MASE,112,Masculino,Sem Declaração
+112FEAM,112,Feminino,Amarela
+112FEBR,112,Feminino,Branca
+112FEIN,112,Feminino,Indígena
+112FEPA,112,Feminino,Parda
+112FEPR,112,Feminino,Preta
+112FESE,112,Feminino,Sem Declaração
+113MAAM,113,Masculino,Amarela
+113MABR,113,Masculino,Branca
+113MAIN,113,Masculino,Indígena
+113MAPA,113,Masculino,Parda
+113MAPR,113,Masculino,Preta
+113MASE,113,Masculino,Sem Declaração
+113FEAM,113,Feminino,Amarela
+113FEBR,113,Feminino,Branca
+113FEIN,113,Feminino,Indígena
+113FEPA,113,Feminino,Parda
+113FEPR,113,Feminino,Preta
+113FESE,113,Feminino,Sem Declaração
+114MAAM,114,Masculino,Amarela
+114MABR,114,Masculino,Branca
+114MAIN,114,Masculino,Indígena
+114MAPA,114,Masculino,Parda
+114MAPR,114,Masculino,Preta
+114MASE,114,Masculino,Sem Declaração
+114FEAM,114,Feminino,Amarela
+114FEBR,114,Feminino,Branca
+114FEIN,114,Feminino,Indígena
+114FEPA,114,Feminino,Parda
+114FEPR,114,Feminino,Preta
+114FESE,114,Feminino,Sem Declaração
+115MAAM,115,Masculino,Amarela
+115MABR,115,Masculino,Branca
+115MAIN,115,Masculino,Indígena
+115MAPA,115,Masculino,Parda
+115MAPR,115,Masculino,Preta
+115MASE,115,Masculino,Sem Declaração
+115FEAM,115,Feminino,Amarela
+115FEBR,115,Feminino,Branca
+115FEIN,115,Feminino,Indígena
+115FEPA,115,Feminino,Parda
+115FEPR,115,Feminino,Preta
+115FESE,115,Feminino,Sem Declaração
+116MAAM,116,Masculino,Amarela
+116MABR,116,Masculino,Branca
+116MAIN,116,Masculino,Indígena
+116MAPA,116,Masculino,Parda
+116MAPR,116,Masculino,Preta
+116MASE,116,Masculino,Sem Declaração
+116FEAM,116,Feminino,Amarela
+116FEBR,116,Feminino,Branca
+116FEIN,116,Feminino,Indígena
+116FEPA,116,Feminino,Parda
+116FEPR,116,Feminino,Preta
+116FESE,116,Feminino,Sem Declaração
+117MAAM,117,Masculino,Amarela
+117MABR,117,Masculino,Branca
+117MAIN,117,Masculino,Indígena
+117MAPA,117,Masculino,Parda
+117MAPR,117,Masculino,Preta
+117MASE,117,Masculino,Sem Declaração
+117FEAM,117,Feminino,Amarela
+117FEBR,117,Feminino,Branca
+117FEIN,117,Feminino,Indígena
+117FEPA,117,Feminino,Parda
+117FEPR,117,Feminino,Preta
+117FESE,117,Feminino,Sem Declaração
+118MAAM,118,Masculino,Amarela
+118MABR,118,Masculino,Branca
+118MAIN,118,Masculino,Indígena
+118MAPA,118,Masculino,Parda
+118MAPR,118,Masculino,Preta
+118MASE,118,Masculino,Sem Declaração
+118FEAM,118,Feminino,Amarela
+118FEBR,118,Feminino,Branca
+118FEIN,118,Feminino,Indígena
+118FEPA,118,Feminino,Parda
+118FEPR,118,Feminino,Preta
+118FESE,118,Feminino,Sem Declaração
+119MAAM,119,Masculino,Amarela
+119MABR,119,Masculino,Branca
+119MAIN,119,Masculino,Indígena
+119MAPA,119,Masculino,Parda
+119MAPR,119,Masculino,Preta
+119MASE,119,Masculino,Sem Declaração
+119FEAM,119,Feminino,Amarela
+119FEBR,119,Feminino,Branca
+119FEIN,119,Feminino,Indígena
+119FEPA,119,Feminino,Parda
+119FEPR,119,Feminino,Preta
+119FESE,119,Feminino,Sem Declaração
+120MAAM,120,Masculino,Amarela
+120MABR,120,Masculino,Branca
+120MAIN,120,Masculino,Indígena
+120MAPA,120,Masculino,Parda
+120MAPR,120,Masculino,Preta
+120MASE,120,Masculino,Sem Declaração
+120FEAM,120,Feminino,Amarela
+120FEBR,120,Feminino,Branca
+120FEIN,120,Feminino,Indígena
+120FEPA,120,Feminino,Parda
+120FEPR,120,Feminino,Preta
+120FESE,120,Feminino,Sem Declaração
