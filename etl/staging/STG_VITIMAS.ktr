@@ -100,13 +100,15 @@
     </attributes>
   </connection>
   <order>
-  <hop> <from>transposi&#xe7;&#xe3;o das datas</from><to>Conserta typos conhecidos</to><enabled>N</enabled> </hop>
-  <hop> <from>Conserta typos conhecidos</from><to>Text file output</to><enabled>N</enabled> </hop>
-  <hop> <from>Renomeia campos pro jscript</from><to>Dummy &#x28;do nothing&#x29;</to><enabled>Y</enabled> </hop>
+  <hop> <from>transposi&#xe7;&#xe3;o das datas</from><to>Conserta typos conhecidos</to><enabled>Y</enabled> </hop>
   <hop> <from>RSC_FF_VITIMAS</from><to>Renomeia campos pro jscript</to><enabled>Y</enabled> </hop>
-  <hop> <from>Renomeia campos pro jscript</from><to>Filter rows</to><enabled>Y</enabled> </hop>
-  <hop> <from>Filter rows</from><to>transposi&#xe7;&#xe3;o das datas</to><enabled>Y</enabled> </hop>
-  <hop> <from>Filter rows</from><to>Dummy &#x28;do nothing&#x29; 2</to><enabled>Y</enabled> </hop>
+  <hop> <from>Renomeia campos pro jscript</from><to>Remove linhas in&#xfa;teis</to><enabled>Y</enabled> </hop>
+  <hop> <from>Remove linhas in&#xfa;teis</from><to>transposi&#xe7;&#xe3;o das datas</to><enabled>Y</enabled> </hop>
+  <hop> <from>Remove linhas in&#xfa;teis</from><to>analisa erros</to><enabled>Y</enabled> </hop>
+  <hop> <from>Conserta typos conhecidos</from><to>remove datas que n&#xe3;o s&#xe3;o datas</to><enabled>Y</enabled> </hop>
+  <hop> <from>remove datas que n&#xe3;o s&#xe3;o datas</from><to>remove cabe&#xe7;alhos e rodap&#xe9;s</to><enabled>Y</enabled> </hop>
+  <hop> <from>remove cabe&#xe7;alhos e rodap&#xe9;s</from><to>renomeia campos</to><enabled>Y</enabled> </hop>
+  <hop> <from>renomeia campos</from><to>DST_DB_STG_VITIMA</to><enabled>Y</enabled> </hop>
   </order>
   <step>
     <name>Conserta typos conhecidos</name>
@@ -139,8 +141,8 @@
         <replace_by_string>Espancamento</replace_by_string>
         <set_empty_string>N</set_empty_string>
         <replace_field_by_string/>
-        <whole_word>no</whole_word>
-        <case_sensitive>no</case_sensitive>
+        <whole_word>yes</whole_word>
+        <case_sensitive>yes</case_sensitive>
       </field>
       <field>
         <in_stream_name>morte</in_stream_name>
@@ -157,8 +159,63 @@
         <in_stream_name>Bairro</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
-        <replace_string>Olho d &#xc1;gua dos</replace_string>
-        <replace_by_string>Olho d&#x27;&#xc1;gua dos Cazuzinhos</replace_by_string>
+        <replace_string>d &#xc1;gua</replace_string>
+        <replace_by_string>d&#x27;&#xc1;gua</replace_by_string>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+      </field>
+      <field>
+        <in_stream_name>Bairro</in_stream_name>
+        <out_stream_name/>
+        <use_regex>no</use_regex>
+        <replace_string>dosCazuzinhos</replace_string>
+        <replace_by_string>dos Cazuzinhos</replace_by_string>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+      </field>
+      <field>
+        <in_stream_name>Cidade</in_stream_name>
+        <out_stream_name/>
+        <use_regex>no</use_regex>
+        <replace_string>d </replace_string>
+        <replace_by_string>d&#x27;</replace_by_string>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+      </field>
+      <field>
+        <in_stream_name>morte</in_stream_name>
+        <out_stream_name/>
+        <use_regex>no</use_regex>
+        <replace_string>ESPANCAME ..</replace_string>
+        <replace_by_string>Espancamento</replace_by_string>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+      </field>
+      <field>
+        <in_stream_name>morte</in_stream_name>
+        <out_stream_name/>
+        <use_regex>no</use_regex>
+        <replace_string>ASFIXIAMEC&#xc2;NICA</replace_string>
+        <replace_by_string>Asfixia Mec&#xe2;nica</replace_by_string>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+      </field>
+      <field>
+        <in_stream_name>morte</in_stream_name>
+        <out_stream_name/>
+        <use_regex>no</use_regex>
+        <replace_string>CHOQUEEL&#xc9;TRICO</replace_string>
+        <replace_by_string>Choque El&#xe9;trico</replace_by_string>
         <set_empty_string>N</set_empty_string>
         <replace_field_by_string/>
         <whole_word>no</whole_word>
@@ -167,8 +224,8 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>340</xloc>
-      <yloc>374</yloc>
+      <xloc>345</xloc>
+      <yloc>434</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -201,7 +258,7 @@
     <layout_paged>N</layout_paged>
     <nr_lines_per_page>80</nr_lines_per_page>
     <nr_lines_doc_header>0</nr_lines_doc_header>
-    <noempty>Y</noempty>
+    <noempty>N</noempty>
     <include>Y</include>
     <include_field>filename</include_field>
     <rownum>N</rownum>
@@ -211,7 +268,7 @@
     <encoding>UTF-8</encoding>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>C&#x3a;&#x5c;Users&#x5c;Vis&#xe1;gio&#x5c;Documents&#x5c;git&#x5c;brazilian-violence-dw&#x5c;dataset&#x5c;alagoas&#x5c;dados convertidos&#x5c;</name>
+      <name>C&#x3a;&#x5c;Users&#x5c;jfc29&#x5c;Downloads&#x5c;brazilian-violence-dw&#x5c;dataset&#x5c;alagoas&#x5c;dados convertidos&#x5c;</name>
       <filemask>.&#x2a;csv</filemask>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -234,7 +291,7 @@
         <position>-1</position>
         <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
@@ -294,7 +351,7 @@
         <position>-1</position>
         <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
@@ -339,7 +396,7 @@
         <position>-1</position>
         <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
@@ -354,7 +411,7 @@
         <position>-1</position>
         <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
@@ -369,7 +426,7 @@
         <position>-1</position>
         <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
         <repeat>N</repeat>
       </field>
     </fields>
@@ -400,7 +457,7 @@
     <sizeFieldName/>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>340</xloc>
+      <xloc>345</xloc>
       <yloc>50</yloc>
       <draw>Y</draw>
       </GUI>
@@ -417,8 +474,8 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
-<send_true_to/>
-<send_false_to/>
+<send_true_to>transposi&#xe7;&#xe3;o das datas</send_true_to>
+<send_false_to>analisa erros</send_false_to>
     <compare>
 <condition>
  <negated>N</negated>
@@ -436,13 +493,25 @@
    <function>&#x3d;</function>
    <rightvalue/>
    <value><name>constant</name><type>String</type><text>Feminino</text><length>-1</length><precision>-1</precision><isnull>N</isnull><mask/></value>   </condition>
+  <condition>
+   <negated>N</negated>
+   <operator>OR</operator>
+   <conditions>
+    <condition>
+     <negated>N</negated>
+     <leftvalue>Sexo</leftvalue>
+     <function>&#x3d;</function>
+     <rightvalue/>
+     <value><name>constant</name><type>String</type><text>NA</text><length>-1</length><precision>-1</precision><isnull>N</isnull><mask/></value>     </condition>
+    </conditions>
+   </condition>
   </conditions>
  </condition>
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>173</xloc>
-      <yloc>166</yloc>
+      <xloc>345</xloc>
+      <yloc>242</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -503,40 +572,10 @@
         <length>-2</length>
         <precision>-2</precision>
       </field>        <select_unspecified>N</select_unspecified>
-      <meta>        <name>Hora</name>
-        <rename>Hora</rename>
-        <type>Integer</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>      <meta>        <name>Idade</name>
-        <rename>Idade</rename>
-        <type>Integer</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>    </fields>     <cluster_schema/>
+    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>456</xloc>
-      <yloc>118</yloc>
+      <xloc>345</xloc>
+      <yloc>146</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -556,7 +595,7 @@
     <optimizationLevel>9</optimizationLevel>
     <jsScripts>      <jsScript>        <jsScript_type>0</jsScript_type>
         <jsScript_name>Script 1</jsScript_name>
-        <jsScript_script>&#x2f;&#x2f;Script here&#xd;&#xa;&#xd;&#xa;var data_do_fato&#x3b;&#xd;&#xa;if &#x28;data_fato &#x21;&#x3d; null&#x29;&#x7b;&#xd;&#xa;	data_do_fato &#x3d; data_fato&#x3b;&#xd;&#xa;&#x7d;</jsScript_script>
+        <jsScript_script>&#x2f;&#x2f;Script here&#xd;&#xa;&#xd;&#xa;var data_do_fato&#x3b;&#xd;&#xa;if &#x28;data_fato &#x21;&#x3d; null&#x29;&#x7b;&#xd;&#xa;	data_do_fato &#x3d; data_fato&#x3b;&#xd;&#xa;&#x7d;&#xd;&#xa;</jsScript_script>
       </jsScript>    </jsScripts>    <fields>      <field>        <name>data_do_fato</name>
         <rename>data_do_fato</rename>
         <type>String</type>
@@ -565,210 +604,14 @@
         <replace>N</replace>
       </field>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>340</xloc>
-      <yloc>293</yloc>
-      <draw>Y</draw>
-      </GUI>
-    </step>
-
-  <step>
-    <name>Text file output</name>
-    <type>TextFileOutput</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-         <partitioning>
-           <method>none</method>
-           <schema_name/>
-           </partitioning>
-    <separator>,</separator>
-    <enclosure/>
-    <enclosure_forced>N</enclosure_forced>
-    <enclosure_fix_disabled>N</enclosure_fix_disabled>
-    <header>Y</header>
-    <footer>N</footer>
-    <format>DOS</format>
-    <compression>None</compression>
-    <encoding>windows-1252</encoding>
-    <endedLine/>
-    <fileNameInField>N</fileNameInField>
-    <fileNameField/>
-    <create_parent_folder>Y</create_parent_folder>
-    <file>
-      <name>C&#x3a;&#x5c;Users&#x5c;Vis&#xe1;gio&#x5c;Documents&#x5c;git&#x5c;brazilian-violence-dw&#x5c;etl&#x5c;staging&#x5c;file</name>
-      <is_command>N</is_command>
-      <servlet_output>N</servlet_output>
-      <do_not_open_new_file_init>N</do_not_open_new_file_init>
-      <extention>csv</extention>
-      <append>N</append>
-      <split>N</split>
-      <haspartno>N</haspartno>
-      <add_date>N</add_date>
-      <add_time>N</add_time>
-      <SpecifyFormat>N</SpecifyFormat>
-      <date_time_format/>
-      <add_to_result_filenames>Y</add_to_result_filenames>
-      <pad>N</pad>
-      <fast_dump>N</fast_dump>
-      <splitevery>0</splitevery>
-    </file>
-    <fields>
-      <field>
-        <name>data_fato</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>Hora</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>Nome</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>Idade</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>Sexo</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>subjetividade</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>morte</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>Cidade</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>Bairro</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>error_fields</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>filename</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>100</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>data_do_fato</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>none</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-    </fields>
-     <cluster_schema/>
- <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>345</xloc>
-      <yloc>445</yloc>
+      <yloc>338</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
 
   <step>
-    <name>Dummy &#x28;do nothing&#x29;</name>
+    <name>analisa erros</name>
     <type>Dummy</type>
     <description/>
     <distribute>Y</distribute>
@@ -780,14 +623,44 @@
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>638</xloc>
-      <yloc>250</yloc>
+      <xloc>624</xloc>
+      <yloc>325</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
 
   <step>
-    <name>Filter rows</name>
+    <name>remove datas que n&#xe3;o s&#xe3;o datas</name>
+    <type>ScriptValueMod</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <compatible>N</compatible>
+    <optimizationLevel>9</optimizationLevel>
+    <jsScripts>      <jsScript>        <jsScript_type>0</jsScript_type>
+        <jsScript_name>Script 1</jsScript_name>
+        <jsScript_script>&#x2f;&#x2f;Script here&#xd;&#xa;&#xd;&#xa;var data&#x3b;&#xd;&#xa;if &#x28;isNaN&#x28;Date.parse&#x28;data_do_fato&#x29;&#x29;&#x29;&#x7b;&#xd;&#xa;	data &#x3d; null&#x3b;&#xd;&#xa;&#x7d;else&#x7b;&#xd;&#xa;	data &#x3d; data_do_fato&#x3b;&#xd;&#xa;&#x7d;&#xd;&#xa;</jsScript_script>
+      </jsScript>    </jsScripts>    <fields>      <field>        <name>data</name>
+        <rename>data</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>    </fields>     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>345</xloc>
+      <yloc>530</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>remove cabe&#xe7;alhos e rodap&#xe9;s</name>
     <type>FilterRows</type>
     <description/>
     <distribute>Y</distribute>
@@ -797,27 +670,39 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
-<send_true_to>transposi&#xe7;&#xe3;o das datas</send_true_to>
-<send_false_to>Dummy &#x28;do nothing&#x29; 2</send_false_to>
+<send_true_to/>
+<send_false_to/>
     <compare>
 <condition>
  <negated>N</negated>
- <leftvalue>Hora</leftvalue>
- <function>IS NOT NULL</function>
- <rightvalue/>
+ <conditions>
+  <condition>
+   <negated>N</negated>
+   <leftvalue>data</leftvalue>
+   <function>IS NOT NULL</function>
+   <rightvalue/>
+   </condition>
+  <condition>
+   <negated>N</negated>
+   <operator>AND</operator>
+   <leftvalue>Cidade</leftvalue>
+   <function>IS NOT NULL</function>
+   <rightvalue/>
+   </condition>
+  </conditions>
  </condition>
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>407</xloc>
-      <yloc>201</yloc>
+      <xloc>345</xloc>
+      <yloc>626</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
 
   <step>
-    <name>Dummy &#x28;do nothing&#x29; 2</name>
-    <type>Dummy</type>
+    <name>renomeia campos</name>
+    <type>SelectValues</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -826,10 +711,77 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
+    <fields>      <field>        <name>data_do_fato</name>
+        <rename/>
+        <length>-2</length>
+        <precision>-2</precision>
+      </field>      <field>        <name>Hora</name>
+        <rename>hora</rename>
+        <length>-2</length>
+        <precision>-2</precision>
+      </field>      <field>        <name>Nome</name>
+        <rename>nome</rename>
+        <length>-2</length>
+        <precision>-2</precision>
+      </field>      <field>        <name>Idade</name>
+        <rename>idade</rename>
+        <length>-2</length>
+        <precision>-2</precision>
+      </field>      <field>        <name>Sexo</name>
+        <rename>sexo</rename>
+        <length>-2</length>
+        <precision>-2</precision>
+      </field>      <field>        <name>subjetividade</name>
+        <rename>tipo_morte</rename>
+        <length>-2</length>
+        <precision>-2</precision>
+      </field>      <field>        <name>Cidade</name>
+        <rename>cidade</rename>
+        <length>-2</length>
+        <precision>-2</precision>
+      </field>        <select_unspecified>N</select_unspecified>
+    </fields>     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>345</xloc>
+      <yloc>722</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>DST_DB_STG_VITIMA</name>
+    <type>TableOutput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <connection>brazilian_violence_connection</connection>
+    <schema>public</schema>
+    <table>stg_vitima</table>
+    <commit>1000</commit>
+    <truncate>Y</truncate>
+    <ignore_errors>N</ignore_errors>
+    <use_batch>Y</use_batch>
+    <specify_fields>N</specify_fields>
+    <partitioning_enabled>N</partitioning_enabled>
+    <partitioning_field/>
+    <partitioning_daily>N</partitioning_daily>
+    <partitioning_monthly>Y</partitioning_monthly>
+    <tablename_in_field>N</tablename_in_field>
+    <tablename_field/>
+    <tablename_in_table>Y</tablename_in_table>
+    <return_keys>N</return_keys>
+    <return_field/>
+    <fields>
+    </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>494</xloc>
-      <yloc>291</yloc>
+      <xloc>345</xloc>
+      <yloc>818</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -837,7 +789,7 @@
   <step_error_handling>
       <error>
         <source_step>Renomeia campos pro jscript</source_step>
-        <target_step>Dummy &#x28;do nothing&#x29;</target_step>
+        <target_step/>
         <is_enabled>Y</is_enabled>
         <nr_valuename/>
         <descriptions_valuename/>
