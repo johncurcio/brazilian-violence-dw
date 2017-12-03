@@ -128,6 +128,17 @@
     <encoding/>
     <fields>
       <field>
+        <name>anomes</name>
+        <type>String</type>
+        <format/>
+        <currency>&#x24;</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>both</trim_type>
+      </field>
+      <field>
         <name>ano</name>
         <type>Integer</type>
         <format>&#x23;</format>
@@ -136,7 +147,7 @@
         <group>,</group>
         <length>-1</length>
         <precision>0</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>mesnum</name>
@@ -147,7 +158,7 @@
         <group>,</group>
         <length>-1</length>
         <precision>0</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>mesnome</name>
@@ -158,7 +169,7 @@
         <group>,</group>
         <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>mesnomeabr</name>
@@ -169,7 +180,7 @@
         <group>,</group>
         <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>mes_key</name>
@@ -180,7 +191,7 @@
         <group>,</group>
         <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
     </fields>
      <cluster_schema/>
@@ -217,6 +228,11 @@
           <from>date_from</from>
           <to>date_to</to>
         </date>
+        <field>
+          <name>anomes</name>
+          <lookup>anomes</lookup>
+          <update>Insert</update>
+        </field>
         <field>
           <name>ano</name>
           <lookup>ano</lookup>

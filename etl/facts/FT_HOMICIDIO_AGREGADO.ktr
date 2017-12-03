@@ -227,7 +227,7 @@
       </key>
       <value>
         <name>sk_month</name>
-        <rename>sk_mes</rename>
+        <rename>sk_month</rename>
         <default/>
         <type>Number</type>
       </value>
@@ -269,7 +269,7 @@
       </key>
       <value>
         <name>sk_death</name>
-        <rename>sk_tipo_morte</rename>
+        <rename>sk_death</rename>
         <default/>
         <type>Number</type>
       </value>
@@ -301,11 +301,11 @@
         <rename/>
         <length>-2</length>
         <precision>-2</precision>
-      </field>      <field>        <name>sk_tipo_morte</name>
+      </field>      <field>        <name>sk_death</name>
         <rename/>
         <length>-2</length>
         <precision>-2</precision>
-      </field>      <field>        <name>sk_mes</name>
+      </field>      <field>        <name>sk_month</name>
         <rename/>
         <length>-2</length>
         <precision>-2</precision>

@@ -288,7 +288,7 @@
       </key>
       <value>
         <name>sk_time</name>
-        <rename>sk_tempo</rename>
+        <rename>sk_time</rename>
         <default/>
         <type>Number</type>
       </value>
@@ -330,7 +330,7 @@
       </key>
       <value>
         <name>sk_death</name>
-        <rename>sk_tipo_morte</rename>
+        <rename>sk_death</rename>
         <default/>
         <type>Number</type>
       </value>
@@ -362,11 +362,11 @@
         <rename/>
         <length>-2</length>
         <precision>-2</precision>
-      </field>      <field>        <name>sk_tipo_morte</name>
+      </field>      <field>        <name>sk_death</name>
         <rename/>
         <length>-2</length>
         <precision>-2</precision>
-      </field>      <field>        <name>sk_tempo</name>
+      </field>      <field>        <name>sk_time</name>
         <rename/>
         <length>-2</length>
         <precision>-2</precision>
