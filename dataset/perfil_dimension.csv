@@ -1,4 +1,10 @@
 perfil_key,idade,genero,cor
+FEAMA,-1,Feminino,Amarela
+FEBRA,-1,Feminino,Branca
+FEIND,-1,Feminino,Indígena
+FEPAR,-1,Feminino,Parda
+FEPRE,-1,Feminino,Preta
+FESEM,-1,Feminino,Sem Declaração
 0FEAM,0,Feminino,Amarela
 0FEBR,0,Feminino,Branca
 0FEIN,0,Feminino,Indígena
@@ -725,6 +731,12 @@ perfil_key,idade,genero,cor
 120FEPA,120,Feminino,Parda
 120FEPR,120,Feminino,Preta
 120FESE,120,Feminino,Sem Declaração
+MAAMA,-1,Masculino,Amarela
+MABRA,-1,Masculino,Branca
+MAIND,-1,Masculino,Indígena
+MAPAR,-1,Masculino,Parda
+MAPRE,-1,Masculino,Preta
+MASEM,-1,Masculino,Sem Declaração
 0MAAM,0,Masculino,Amarela
 0MABR,0,Masculino,Branca
 0MAIN,0,Masculino,Indígena
@@ -1451,6 +1463,12 @@ perfil_key,idade,genero,cor
 120MAPA,120,Masculino,Parda
 120MAPR,120,Masculino,Preta
 120MASE,120,Masculino,Sem Declaração
+NAAMA,-1,NA,Amarela
+NABRA,-1,NA,Branca
+NAIND,-1,NA,Indígena
+NAPAR,-1,NA,Parda
+NAPRE,-1,NA,Preta
+NASEM,-1,NA,Sem Declaração
 0NAAM,0,NA,Amarela
 0NABR,0,NA,Branca
 0NAIN,0,NA,Indígena

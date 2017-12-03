@@ -171,9 +171,9 @@
         <currency>&#x24;</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>9</length>
+        <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>estado</name>
@@ -182,9 +182,9 @@
         <currency>&#x24;</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>19</length>
+        <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>regi&#xe3;o</name>
@@ -193,9 +193,9 @@
         <currency>&#x24;</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>19</length>
+        <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>uf</name>
@@ -204,31 +204,31 @@
         <currency>&#x24;</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>2</length>
+        <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>cod_uf</name>
-        <type>Integer</type>
+        <type>String</type>
         <format>&#x23;</format>
         <currency>&#x24;</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>15</length>
+        <length>-1</length>
         <precision>0</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>cod_municipio</name>
-        <type>Integer</type>
+        <type>String</type>
         <format>&#x23;</format>
         <currency>&#x24;</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>15</length>
+        <length>-1</length>
         <precision>0</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>munic&#xed;pio</name>
@@ -237,9 +237,9 @@
         <currency>&#x24;</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>32</length>
+        <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>popula&#xe7;&#xe3;o</name>
@@ -248,9 +248,9 @@
         <currency>&#x24;</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>11</length>
+        <length>-1</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
     </fields>
      <cluster_schema/>
